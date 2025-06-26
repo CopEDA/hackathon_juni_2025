@@ -1,0 +1,842 @@
+MeetObject;Naam;GEMEENTE;X;Y;Jaar;Maand;Instanties;Netwerken;Landgebruik;Vaarwater;Gebied_Type;Richness
+OW001-000;Kerstanje_ spoorbrug;Delft;83350;448531;2013;7;NA;EBEO_H&W;Stad;Ja;Boezem;19
+OW001-000;Kerstanje_ spoorbrug;Delft;83350;448531;2019;8;RTR;EBEO_H&W;Stad;Ja;Boezem;5
+OW001-000;Kerstanje_ spoorbrug;Delft;83350;448531;2022;7;HHE;EBEO_H&W;Stad;Ja;Boezem;1
+OW004-000;Kromme Zweth_Noordlierweg afbuiging;Westland;77028;445194;2014;7;NA;EBEO_MD;Glas;Ja;Boezem;34
+OW004-000;Kromme Zweth_Noordlierweg afbuiging;Westland;77028;445194;2023;8;FBT;EBEO_MD;Glas;Ja;Boezem;17
+OW004-000;Kromme Zweth_Noordlierweg afbuiging;Westland;77028;445194;2020;6;RTR;EBEO_MD;Glas;Ja;Boezem;5
+OW004-000;Kromme Zweth_Noordlierweg afbuiging;Westland;77028;445194;2017;6;RTR;EBEO_MD;Glas;Ja;Boezem;1
+OW004-002;Zeven gaten van Lingen;Westland;77497;445401;2014;6;NA;EBEO_MD;Glas;Nee;Boezem;18
+OW004-002;Zeven gaten van Lingen;Westland;77497;445401;2017;7;HHE;EBEO_MD;Glas;Nee;Boezem;9
+OW004-002;Zeven gaten van Lingen;Westland;77497;445401;2020;8;RTR;EBEO_MD;Glas;Nee;Boezem;16
+OW004-002;Zeven gaten van Lingen;Westland;77497;445401;2023;8;FBT;EBEO_MD;Glas;Nee;Boezem;15
+OW005-000;Zwethkanaal_rijksweg N 213;Westland;74700;443817;2014;7;NA;EBEO_MD;Glas;Ja;Boezem;26
+OW005-000;Zwethkanaal_rijksweg N 213;Westland;74700;443817;2023;8;JSA;EBEO_MD;Glas;Ja;Boezem;29
+OW005-000;Zwethkanaal_rijksweg N 213;Westland;74700;443817;2020;8;RTR;EBEO_MD;Glas;Ja;Boezem;7
+OW005-000;Zwethkanaal_rijksweg N 213;Westland;74700;443817;2017;6;RTR;EBEO_MD;Glas;Ja;Boezem;1
+OW006-016;Oude Spui_brug einde weg;Rotterdam;72521;441981;2014;7;NA;EBEO_MD;Gras;Nee;Boezem;23
+OW006-016;Oude Spui_brug einde weg;Rotterdam;72521;441981;2017;6;HHE;EBEO_MD;Gras;Nee;Boezem;10
+OW006-016;Oude Spui_brug einde weg;Rotterdam;72521;441981;2020;6;RTR;EBEO_MD;Gras;Nee;Boezem;7
+OW006-016;Oude Spui_brug einde weg;Rotterdam;72521;441981;2023;8;JSA;EBEO_MD;Gras;Nee;Boezem;8
+OW007-000;Strijp_Zwaansheul;Westland;75587;446163;2016;6;NA;EBEO_H&W;Glas;Ja;Boezem;14
+OW007-000;Strijp_Zwaansheul;Westland;75587;446163;2019;7;EXT;EBEO_H&W;Glas;Ja;Boezem;15
+OW007-000;Strijp_Zwaansheul;Westland;75587;446163;2022;8;EFL;EBEO_H&W;Glas;Ja;Boezem;3
+OW007-000;Strijp_Zwaansheul;Westland;75587;446163;2013;6;NA;EBEO_H&W;Glas;Ja;Boezem;12
+OW007-001;Verlengde Strijp_Veilingweg;Westland;77479;444629;2014;7;NA;EBEO_MD;Glas;Ja;Boezem;42
+OW007-001;Verlengde Strijp_Veilingweg;Westland;77479;444629;2020;8;RTR;EBEO_MD;Glas;Ja;Boezem;22
+OW007-001;Verlengde Strijp_Veilingweg;Westland;77479;444629;2023;8;FBT;EBEO_MD;Glas;Ja;Boezem;16
+OW007-001;Verlengde Strijp_Veilingweg;Westland;77479;444629;2017;6;RTR;EBEO_MD;Glas;Ja;Boezem;1
+OW008-000;Naaldwijksevaart_Verdilaan;Westland;74307;445529;2016;6;NA;EBEO_H&W;Stad;Ja;Boezem;14
+OW008-000;Naaldwijksevaart_Verdilaan;Westland;74307;445529;2019;8;EXT;EBEO_H&W;Stad;Ja;Boezem;7
+OW008-000;Naaldwijksevaart_Verdilaan;Westland;74307;445529;2022;8;EFL;EBEO_H&W;Stad;Ja;Boezem;7
+OW008-000;Naaldwijksevaart_Verdilaan;Westland;74307;445529;2013;6;NA;EBEO_H&W;Stad;Ja;Boezem;3
+OW008-002;Naaldwijksevaart_zijsloot singel Waterlelie;Westland;73220;445630;2019;7;EXT;EBEO_H&W;Glas;Nee;Boezem;32
+OW008-002;Naaldwijksevaart_zijsloot singel Waterlelie;Westland;73220;445630;2016;6;NA;EBEO_H&W;Glas;Nee;Boezem;19
+OW008-002;Naaldwijksevaart_zijsloot singel Waterlelie;Westland;73220;445630;2022;8;EFL;EBEO_H&W;Glas;Nee;Boezem;14
+OW008-002;Naaldwijksevaart_zijsloot singel Waterlelie;Westland;73220;445630;2013;6;NA;EBEO_H&W;Glas;Nee;Boezem;17
+OW010-000;Strijp_Sammersbrug;Rijswijk;79840;450781;2016;6;NA;EBEO_H&W;Stad;Ja;Boezem;22
+OW010-000;Strijp_Sammersbrug;Rijswijk;79840;450781;2017;8;WBA;EBEO_H&W;Stad;Ja;Boezem;6
+OW010-000;Strijp_Sammersbrug;Rijswijk;79840;450781;2023;7;RWI;EBEO_H&W;Stad;Ja;Boezem;16
+OW010-000;Strijp_Sammersbrug;Rijswijk;79840;450781;2023;8;RWI;EBEO_H&W;Stad;Ja;Boezem;13
+OW010-000;Strijp_Sammersbrug;Rijswijk;79840;450781;2018;6;RTR;EBEO_H&W;Stad;Ja;Boezem;6
+OW010-000;Strijp_Sammersbrug;Rijswijk;79840;450781;2020;6;RTR;EBEO_H&W;Stad;Ja;Boezem;6
+OW010-000;Strijp_Sammersbrug;Rijswijk;79840;450781;2020;7;RTR;EBEO_H&W;Stad;Ja;Boezem;6
+OW010-000;Strijp_Sammersbrug;Rijswijk;79840;450781;2020;8;RTR;EBEO_H&W;Stad;Ja;Boezem;7
+OW010-000;Strijp_Sammersbrug;Rijswijk;79840;450781;2022;6;HHE;EBEO_H&W;Stad;Ja;Boezem;9
+OW010-000;Strijp_Sammersbrug;Rijswijk;79840;450781;2022;7;RWI;EBEO_H&W;Stad;Ja;Boezem;12
+OW010-000;Strijp_Sammersbrug;Rijswijk;79840;450781;2022;8;HHE;EBEO_H&W;Stad;Ja;Boezem;14
+OW010-000;Strijp_Sammersbrug;Rijswijk;79840;450781;2023;6;RWI;EBEO_H&W;Stad;Ja;Boezem;9
+OW010-000;Strijp_Sammersbrug;Rijswijk;79840;450781;2024;7;HHE;EBEO_H&W;Stad;Ja;Boezem;5
+OW010-000;Strijp_Sammersbrug;Rijswijk;79840;450781;2024;8;RWI;EBEO_H&W;Stad;Ja;Boezem;11
+OW010-000;Strijp_Sammersbrug;Rijswijk;79840;450781;2019;7;RTR;EBEO_H&W;Stad;Ja;Boezem;7
+OW010-000;Strijp_Sammersbrug;Rijswijk;79840;450781;2019;8;WBA;EBEO_H&W;Stad;Ja;Boezem;7
+OW010-000;Strijp_Sammersbrug;Rijswijk;79840;450781;2018;7;RTR;EBEO_H&W;Stad;Ja;Boezem;5
+OW010-000;Strijp_Sammersbrug;Rijswijk;79840;450781;2018;8;RTR;EBEO_H&W;Stad;Ja;Boezem;6
+OW010-000;Strijp_Sammersbrug;Rijswijk;79840;450781;2017;6;HHE;EBEO_H&W;Stad;Ja;Boezem;6
+OW010-000;Strijp_Sammersbrug;Rijswijk;79840;450781;2017;7;WBA;EBEO_H&W;Stad;Ja;Boezem;4
+OW010-000;Strijp_Sammersbrug;Rijswijk;79840;450781;2019;6;RTR;EBEO_H&W;Stad;Ja;Boezem;5
+OW014-000;Lange Watering_Kwintsheul;Westland;77360;448153;2016;6;NA;EBEO_H&W;Glas;Ja;Boezem;9
+OW014-000;Lange Watering_Kwintsheul;Westland;77360;448153;2013;7;NA;EBEO_H&W;Glas;Ja;Boezem;4
+OW014-000;Lange Watering_Kwintsheul;Westland;77360;448153;2022;8;EFL;EBEO_H&W;Glas;Ja;Boezem;1
+OW015-003;Plas Prinsenbos;Westland;73223;447044;2013;6;NA;EBEO_H&W;Glas;Nee;Boezem;32
+OW015-003;Plas Prinsenbos;Westland;73223;447044;2016;7;NA;EBEO_H&W;Glas;Nee;Boezem;25
+OW015-003;Plas Prinsenbos;Westland;73223;447044;2019;8;EXT;EBEO_H&W;Glas;Nee;Boezem;19
+OW015-006;t Hoekje van Alle Winden_steiger o.z.;Westland;72249;447418;2013;6;NA;EBEO_H&W;Glas;Nee;Boezem;28
+OW015-006;t Hoekje van Alle Winden_steiger o.z.;Westland;72249;447418;2016;7;NA;EBEO_H&W;Glas;Nee;Boezem;30
+OW015-006;t Hoekje van Alle Winden_steiger o.z.;Westland;72249;447418;2019;8;EXT;EBEO_H&W;Glas;Nee;Boezem;21
+OW015-011;Poelwatering Brug Poelkade t.h.v. nr.32;Westland;72513;445990;2016;7;NA;EBEO_H&W;Glas;Ja;Boezem;11
+OW015-011;Poelwatering Brug Poelkade t.h.v. nr.32;Westland;72513;445990;2013;7;NA;EBEO_H&W;Glas;Ja;Boezem;12
+OW015-011;Poelwatering Brug Poelkade t.h.v. nr.32;Westland;72513;445990;2019;8;EXT;EBEO_H&W;Glas;Ja;Boezem;4
+OW015-011;Poelwatering Brug Poelkade t.h.v. nr.32;Westland;72513;445990;2022;7;EFL;EBEO_H&W;Glas;Ja;Boezem;1
+OW015-012;Zijsloot Poelwatering_brug Meidoornstraat;Westland;71279;446278;2019;8;EXT;EBEO_H&W;Stad;Nee;Boezem;32
+OW015-012;Zijsloot Poelwatering_brug Meidoornstraat;Westland;71279;446278;2022;7;EFL;EBEO_H&W;Stad;Nee;Boezem;12
+OW015-012;Zijsloot Poelwatering_brug Meidoornstraat;Westland;71279;446278;2013;6;NA;EBEO_H&W;Stad;Nee;Boezem;9
+OW015-013;Plas Sportpark s-Gravenzande;Westland;71520;445711;2016;7;NA;EBEO_H&W;Stad;Nee;Boezem;31
+OW015-013;Plas Sportpark s-Gravenzande;Westland;71520;445711;2013;6;NA;EBEO_H&W;Stad;Nee;Boezem;41
+OW015-013;Plas Sportpark s-Gravenzande;Westland;71520;445711;2022;8;RWI;EBEO_H&W;Stad;Nee;Boezem;30
+OW015-013;Plas Sportpark s-Gravenzande;Westland;71520;445711;2019;8;EXT;EBEO_H&W;Stad;Nee;Boezem;20
+OW019-001;Kickert- of Hoornsche Vaart_Kickertbrug;Midden-Delfland;82555;446258;2023;7;RWI;EBEO_MD;Stad;Ja;Boezem;7
+OW019-001;Kickert- of Hoornsche Vaart_Kickertbrug;Midden-Delfland;82555;446258;2024;6;RWI;EBEO_MD;Stad;Ja;Boezem;12
+OW019-001;Kickert- of Hoornsche Vaart_Kickertbrug;Midden-Delfland;82555;446258;2014;6;NA;EBEO_MD;Stad;Ja;Boezem;17
+OW019-001;Kickert- of Hoornsche Vaart_Kickertbrug;Midden-Delfland;82555;446258;2020;6;RTR;EBEO_MD;Stad;Ja;Boezem;8
+OW019-001;Kickert- of Hoornsche Vaart_Kickertbrug;Midden-Delfland;82555;446258;2017;6;HHE;EBEO_MD;Stad;Ja;Boezem;6
+OW021-003;Boonervliet_Rijksweg A20;Midden-Delfland;78901;437813;2014;6;NA;EBEO_MD;Gras;Ja;Boezem;15
+OW021-003;Boonervliet_Rijksweg A20;Midden-Delfland;78901;437813;2017;6;IRO;EBEO_MD;Gras;Ja;Boezem;7
+OW021-003;Boonervliet_Rijksweg A20;Midden-Delfland;78901;437813;2023;7;RWI;EBEO_MD;Gras;Ja;Boezem;11
+OW021-003;Boonervliet_Rijksweg A20;Midden-Delfland;78901;437813;2020;6;RTR;EBEO_MD;Gras;Ja;Boezem;13
+OW022-004;Middelvliet_Wateringse sluis;Maassluis;77054;437632;2014;6;NA;EBEO_MD;Stad;Ja;Boezem;8
+OW022-004;Middelvliet_Wateringse sluis;Maassluis;77054;437632;2017;6;IRO;EBEO_MD;Stad;Ja;Boezem;4
+OW022-004;Middelvliet_Wateringse sluis;Maassluis;77054;437632;2020;7;RTR;EBEO_MD;Stad;Ja;Boezem;5
+OW022-004;Middelvliet_Wateringse sluis;Maassluis;77054;437632;2023;7;RWI;EBEO_MD;Stad;Ja;Boezem;2
+OW023-000;Noordvliet_Middelwatering;Midden-Delfland;80287;439497;2014;7;NA;EBEO_MD;Gras;Ja;Boezem;35
+OW023-000;Noordvliet_Middelwatering;Midden-Delfland;80287;439497;2023;8;RWI;EBEO_MD;Gras;Ja;Boezem;24
+OW023-000;Noordvliet_Middelwatering;Midden-Delfland;80287;439497;2020;8;RTR;EBEO_MD;Gras;Ja;Boezem;19
+OW023-000;Noordvliet_Middelwatering;Midden-Delfland;80287;439497;2017;6;IRO;EBEO_MD;Gras;Ja;Boezem;10
+OW024-000;Middelwatering_Doelpad;Midden-Delfland;80048;439963;2023;8;RWI;EBEO_MD;Gras;Nee;Boezem;14
+OW024-000;Middelwatering_Doelpad;Midden-Delfland;80048;439963;2020;8;RTR;EBEO_MD;Gras;Nee;Boezem;12
+OW024-000;Middelwatering_Doelpad;Midden-Delfland;80048;439963;2017;6;IRO;EBEO_MD;Gras;Nee;Boezem;6
+OW026-000;Vlaardingervaart_Vlaardingerschouw;Vlaardingen;81827;439980;2016;7;NA;EBEO_MD;Gras;Ja;Boezem;29
+OW026-000;Vlaardingervaart_Vlaardingerschouw;Vlaardingen;81827;439980;2013;7;NA;EBEO_MD;Gras;Ja;Boezem;31
+OW026-000;Vlaardingervaart_Vlaardingerschouw;Vlaardingen;81827;439980;2018;7;RTR;EBEO_MD;Gras;Ja;Boezem;11
+OW026-000;Vlaardingervaart_Vlaardingerschouw;Vlaardingen;81827;439980;2023;8;RWI;EBEO_MD;Gras;Ja;Boezem;17
+OW026-000;Vlaardingervaart_Vlaardingerschouw;Vlaardingen;81827;439980;2024;6;HHE;EBEO_MD;Gras;Ja;Boezem;12
+OW026-000;Vlaardingervaart_Vlaardingerschouw;Vlaardingen;81827;439980;2015;6;NA;EBEO_MD;Gras;Ja;Boezem;26
+OW026-000;Vlaardingervaart_Vlaardingerschouw;Vlaardingen;81827;439980;2019;8;EXT;EBEO_MD;Gras;Ja;Boezem;25
+OW026-000;Vlaardingervaart_Vlaardingerschouw;Vlaardingen;81827;439980;2020;7;RTR;EBEO_MD;Gras;Ja;Boezem;17
+OW026-000;Vlaardingervaart_Vlaardingerschouw;Vlaardingen;81827;439980;2014;7;NA;EBEO_MD;Gras;Ja;Boezem;19
+OW026-000;Vlaardingervaart_Vlaardingerschouw;Vlaardingen;81827;439980;2021;6;HHE;EBEO_MD;Gras;Ja;Boezem;18
+OW026-000;Vlaardingervaart_Vlaardingerschouw;Vlaardingen;81827;439980;2022;7;RWI;EBEO_MD;Gras;Ja;Boezem;24
+OW026-000;Vlaardingervaart_Vlaardingerschouw;Vlaardingen;81827;439980;2017;6;IRO;EBEO_MD;Gras;Ja;Boezem;6
+OW026-002;Vlaardingervaart_Westlandseweg;Vlaardingen;83108;436860;2014;7;NA;EBEO_MD;Stad;Ja;Boezem;23
+OW026-002;Vlaardingervaart_Westlandseweg;Vlaardingen;83108;436860;2020;7;RTR;EBEO_MD;Stad;Ja;Boezem;4
+OW026-002;Vlaardingervaart_Westlandseweg;Vlaardingen;83108;436860;2023;7;RWI;EBEO_MD;Stad;Ja;Boezem;3
+OW026-002;Vlaardingervaart_Westlandseweg;Vlaardingen;83108;436860;2017;6;IRO;EBEO_MD;Stad;Ja;Boezem;5
+OW027-000;Bree- of Lichtvoetswatering_Trambrug;Midden-Delfland;81052;443131;2020;7;RTR;EBEO_MD;Gras;Ja;Boezem;7
+OW027-000;Bree- of Lichtvoetswatering_Trambrug;Midden-Delfland;81052;443131;2017;6;IRO;EBEO_MD;Gras;Ja;Boezem;8
+OW027-000;Bree- of Lichtvoetswatering_Trambrug;Midden-Delfland;81052;443131;2023;8;FBT;EBEO_MD;Gras;Ja;Boezem;9
+OW031-000;Lots- of Harnaschwatering_Woudseweg;Midden-Delfland;81755;445988;2014;6;NA;EBEO_MD;Stad;Nee;Boezem;16
+OW031-000;Lots- of Harnaschwatering_Woudseweg;Midden-Delfland;81755;445988;2020;6;RTR;EBEO_MD;Stad;Nee;Boezem;15
+OW031-000;Lots- of Harnaschwatering_Woudseweg;Midden-Delfland;81755;445988;2023;7;RWI;EBEO_MD;Stad;Nee;Boezem;12
+OW031-000;Lots- of Harnaschwatering_Woudseweg;Midden-Delfland;81755;445988;2017;6;HHE;EBEO_MD;Stad;Nee;Boezem;8
+OW032-000;Het Look_Rijstuinheul;Midden-Delfland;82268;446174;2014;6;NA;EBEO_MD;Stad;Ja;Boezem;22
+OW032-000;Het Look_Rijstuinheul;Midden-Delfland;82268;446174;2017;6;HHE;EBEO_MD;Stad;Ja;Boezem;10
+OW032-000;Het Look_Rijstuinheul;Midden-Delfland;82268;446174;2023;7;RWI;EBEO_MD;Stad;Ja;Boezem;10
+OW032-000;Het Look_Rijstuinheul;Midden-Delfland;82268;446174;2020;6;RTR;EBEO_MD;Stad;Ja;Boezem;11
+OW034-000;Lee- of Lierwatering_Bleyenhof;Westland;77115;443690;2017;7;HHE;EBEO_MD;Glas;Ja;Boezem;6
+OW034-000;Lee- of Lierwatering_Bleyenhof;Westland;77115;443690;2023;8;FBT;EBEO_MD;Glas;Ja;Boezem;5
+OW034-000;Lee- of Lierwatering_Bleyenhof;Westland;77115;443690;2020;8;RTR;EBEO_MD;Glas;Ja;Boezem;7
+OW034-000;Lee- of Lierwatering_Bleyenhof;Westland;77115;443690;2024;6;HHE;EBEO_MD;Glas;Ja;Boezem;6
+OW036-000;Lierwatertje_Hoefweg;Westland;75304;443219;2017;7;HHE;EBEO_MD;Glas;Nee;Boezem;24
+OW036-000;Lierwatertje_Hoefweg;Westland;75304;443219;2020;8;RTR;EBEO_MD;Glas;Nee;Boezem;13
+OW036-000;Lierwatertje_Hoefweg;Westland;75304;443219;2023;8;JSA;EBEO_MD;Glas;Nee;Boezem;28
+OW037-003;Nieuwe Water_De Vloot;Maassluis;75743;439329;2024;6;HHE;EBEO_MD;Stad;Ja;Boezem;15
+OW037-003;Nieuwe Water_De Vloot;Maassluis;75743;439329;2014;6;NA;EBEO_MD;Stad;Ja;Boezem;23
+OW037-003;Nieuwe Water_De Vloot;Maassluis;75743;439329;2023;8;FBT;EBEO_MD;Stad;Ja;Boezem;9
+OW037-003;Nieuwe Water_De Vloot;Maassluis;75743;439329;2017;7;HHE;EBEO_MD;Stad;Ja;Boezem;14
+OW037-003;Nieuwe Water_De Vloot;Maassluis;75743;439329;2020;6;RTR;EBEO_MD;Stad;Ja;Boezem;13
+OW037-006;Nieuwe Water_De Nol;Westland;75203;441335;2017;7;HHE;EBEO_MD;Glas;Ja;Boezem;22
+OW037-006;Nieuwe Water_De Nol;Westland;75203;441335;2020;6;RTR;EBEO_MD;Glas;Ja;Boezem;12
+OW037-006;Nieuwe Water_De Nol;Westland;75203;441335;2023;8;RWI;EBEO_MD;Glas;Ja;Boezem;24
+OW037-013;Nieuwe Water_bocht Maasdijk;Westland;72925;443690;2019;8;EXT;EBEO_H&W;Glas;Ja;Boezem;22
+OW037-013;Nieuwe Water_bocht Maasdijk;Westland;72925;443690;2022;7;EFL;EBEO_H&W;Glas;Ja;Boezem;17
+OW037-013;Nieuwe Water_bocht Maasdijk;Westland;72925;443690;2016;7;NA;EBEO_H&W;Glas;Ja;Boezem;26
+OW037-013;Nieuwe Water_bocht Maasdijk;Westland;72925;443690;2013;7;NA;EBEO_H&W;Glas;Ja;Boezem;15
+OW038-002;Bezuidenhoutsevaart_Hart Nibbrigkade;'s-Gravenhage;82654;456612;2013;6;NA;EBEO_H&W;Stad;Nee;Boezem;21
+OW038-002;Bezuidenhoutsevaart_Hart Nibbrigkade;'s-Gravenhage;82654;456612;2022;7;HHE;EBEO_H&W;Stad;Nee;Boezem;13
+OW038-002;Bezuidenhoutsevaart_Hart Nibbrigkade;'s-Gravenhage;82654;456612;2019;6;RTR;EBEO_H&W;Stad;Nee;Boezem;16
+OW038-002;Bezuidenhoutsevaart_Hart Nibbrigkade;'s-Gravenhage;82654;456612;2016;6;NA;EBEO_H&W;Stad;Nee;Boezem;16
+OW039-000;Bezuidenhoutsevaart_Houtmanstraat;'s-Gravenhage;83119;456259;2013;6;NA;EBEO_H&W;Stad;Nee;Boezem;21
+OW039-000;Bezuidenhoutsevaart_Houtmanstraat;'s-Gravenhage;83119;456259;2019;6;RTR;EBEO_H&W;Stad;Nee;Boezem;6
+OW039-000;Bezuidenhoutsevaart_Houtmanstraat;'s-Gravenhage;83119;456259;2016;6;NA;EBEO_H&W;Stad;Nee;Boezem;13
+OW039-000;Bezuidenhoutsevaart_Houtmanstraat;'s-Gravenhage;83119;456259;2022;7;HHE;EBEO_H&W;Stad;Nee;Boezem;7
+OW041-000;Zuidersingel_t.h.v. Rembrandtstraat;'s-Gravenhage;80707;454279;2022;8;HHE;EBEO_H&W;Stad;Ja;Boezem;6
+OW041-000;Zuidersingel_t.h.v. Rembrandtstraat;'s-Gravenhage;80707;454279;2016;7;NA;EBEO_H&W;Stad;Ja;Boezem;9
+OW041-000;Zuidersingel_t.h.v. Rembrandtstraat;'s-Gravenhage;80707;454279;2013;6;NA;EBEO_H&W;Stad;Ja;Boezem;4
+OW041-000;Zuidersingel_t.h.v. Rembrandtstraat;'s-Gravenhage;80707;454279;2019;6;RTR;EBEO_H&W;Stad;Ja;Boezem;4
+OW041-001;Noordsingel_ingang Paleistuinen;'s-Gravenhage;80645;455343;2013;6;NA;EBEO_H&W;Stad;Ja;Boezem;11
+OW041-001;Noordsingel_ingang Paleistuinen;'s-Gravenhage;80645;455343;2016;7;NA;EBEO_H&W;Stad;Ja;Boezem;12
+OW041-001;Noordsingel_ingang Paleistuinen;'s-Gravenhage;80645;455343;2019;6;RTR;EBEO_H&W;Stad;Ja;Boezem;9
+OW041-001;Noordsingel_ingang Paleistuinen;'s-Gravenhage;80645;455343;2022;8;HHE;EBEO_H&W;Stad;Ja;Boezem;4
+OW041-001;Noordsingel_ingang Paleistuinen;'s-Gravenhage;80645;455343;2024;6;FBT;EBEO_H&W;Stad;Ja;Boezem;2
+OW042-003;Het Kanaal_Plesmanweg Den Haag;'s-Gravenhage;80967;457002;2016;6;NA;EBEO_H&W;Stad;Ja;Boezem;15
+OW042-003;Het Kanaal_Plesmanweg Den Haag;'s-Gravenhage;80967;457002;2013;6;NA;EBEO_H&W;Stad;Ja;Boezem;6
+OW042-003;Het Kanaal_Plesmanweg Den Haag;'s-Gravenhage;80967;457002;2019;6;RTR;EBEO_H&W;Stad;Ja;Boezem;8
+OW042-003;Het Kanaal_Plesmanweg Den Haag;'s-Gravenhage;80967;457002;2022;7;HHE;EBEO_H&W;Stad;Ja;Boezem;7
+OW043-002;Verversings- of Afvoerkanaal_Circulatiegemaal;'s-Gravenhage;78838;455481;2014;7;NA;EBEO_H&W;Stad;Ja;Boezem;28
+OW043-002;Verversings- of Afvoerkanaal_Circulatiegemaal;'s-Gravenhage;78838;455481;2013;6;NA;EBEO_H&W;Stad;Ja;Boezem;17
+OW043-002;Verversings- of Afvoerkanaal_Circulatiegemaal;'s-Gravenhage;78838;455481;2015;7;NA;EBEO_H&W;Stad;Ja;Boezem;7
+OW043-002;Verversings- of Afvoerkanaal_Circulatiegemaal;'s-Gravenhage;78838;455481;2016;6;NA;EBEO_H&W;Stad;Ja;Boezem;15
+OW043-002;Verversings- of Afvoerkanaal_Circulatiegemaal;'s-Gravenhage;78838;455481;2018;6;RTR;EBEO_H&W;Stad;Ja;Boezem;4
+OW043-002;Verversings- of Afvoerkanaal_Circulatiegemaal;'s-Gravenhage;78838;455481;2022;7;HHE;EBEO_H&W;Stad;Ja;Boezem;7
+OW043-002;Verversings- of Afvoerkanaal_Circulatiegemaal;'s-Gravenhage;78838;455481;2020;6;RTR;EBEO_H&W;Stad;Ja;Boezem;9
+OW043-002;Verversings- of Afvoerkanaal_Circulatiegemaal;'s-Gravenhage;78838;455481;2023;7;FBT;EBEO_H&W;Stad;Ja;Boezem;3
+OW043-002;Verversings- of Afvoerkanaal_Circulatiegemaal;'s-Gravenhage;78838;455481;2024;6;FBT;EBEO_H&W;Stad;Ja;Boezem;6
+OW043-002;Verversings- of Afvoerkanaal_Circulatiegemaal;'s-Gravenhage;78838;455481;2017;7;HHE;EBEO_H&W;Stad;Ja;Boezem;4
+OW043-002;Verversings- of Afvoerkanaal_Circulatiegemaal;'s-Gravenhage;78838;455481;2021;6;HHE;EBEO_H&W;Stad;Ja;Boezem;5
+OW043-002;Verversings- of Afvoerkanaal_Circulatiegemaal;'s-Gravenhage;78838;455481;2019;6;RTR;EBEO_H&W;Stad;Ja;Boezem;2
+OW044-000;Haagsche Vliet_Wiekstraat;'s-Gravenhage;82924;453538;2014;7;NA;EBEO_H&W;Stad;Ja;Boezem;25
+OW044-000;Haagsche Vliet_Wiekstraat;'s-Gravenhage;82924;453538;2015;6;NA;EBEO_H&W;Stad;Ja;Boezem;14
+OW044-000;Haagsche Vliet_Wiekstraat;'s-Gravenhage;82924;453538;2016;7;NA;EBEO_H&W;Stad;Ja;Boezem;21
+OW044-000;Haagsche Vliet_Wiekstraat;'s-Gravenhage;82924;453538;2013;6;NA;EBEO_H&W;Stad;Ja;Boezem;10
+OW044-000;Haagsche Vliet_Wiekstraat;'s-Gravenhage;82924;453538;2018;6;RTR;EBEO_H&W;Stad;Ja;Boezem;6
+OW044-000;Haagsche Vliet_Wiekstraat;'s-Gravenhage;82924;453538;2020;6;RTR;EBEO_H&W;Stad;Ja;Boezem;8
+OW044-000;Haagsche Vliet_Wiekstraat;'s-Gravenhage;82924;453538;2024;6;FBT;EBEO_H&W;Stad;Ja;Boezem;12
+OW044-000;Haagsche Vliet_Wiekstraat;'s-Gravenhage;82924;453538;2019;6;RTR;EBEO_H&W;Stad;Ja;Boezem;3
+OW044-000;Haagsche Vliet_Wiekstraat;'s-Gravenhage;82924;453538;2022;8;HHE;EBEO_H&W;Stad;Ja;Boezem;12
+OW044-000;Haagsche Vliet_Wiekstraat;'s-Gravenhage;82924;453538;2023;7;RWI;EBEO_H&W;Stad;Ja;Boezem;7
+OW044-000;Haagsche Vliet_Wiekstraat;'s-Gravenhage;82924;453538;2017;6;HHE;EBEO_H&W;Stad;Ja;Boezem;3
+OW044-000;Haagsche Vliet_Wiekstraat;'s-Gravenhage;82924;453538;2021;6;HHE;EBEO_H&W;Stad;Ja;Boezem;3
+OW045-001;Broeksloot_Rozenboomlaan;Leidschendam-Voorburg;84775;454259;2016;7;NA;EBEO_H&W;Stad;Nee;Boezem;33
+OW045-001;Broeksloot_Rozenboomlaan;Leidschendam-Voorburg;84775;454259;2013;7;NA;EBEO_H&W;Stad;Nee;Boezem;40
+OW045-001;Broeksloot_Rozenboomlaan;Leidschendam-Voorburg;84775;454259;2019;6;RTR;EBEO_H&W;Stad;Nee;Boezem;30
+OW045-001;Broeksloot_Rozenboomlaan;Leidschendam-Voorburg;84775;454259;2022;7;EFL;EBEO_H&W;Stad;Nee;Boezem;23
+OW046-002;Laakkanaal_brug Veluweplein;'s-Gravenhage;79933;452903;2013;6;NA;EBEO_H&W;Stad;Ja;Boezem;5
+OW046-002;Laakkanaal_brug Veluweplein;'s-Gravenhage;79933;452903;2016;7;NA;EBEO_H&W;Stad;Ja;Boezem;13
+OW046-002;Laakkanaal_brug Veluweplein;'s-Gravenhage;79933;452903;2022;8;BVK;EBEO_H&W;Stad;Ja;Boezem;3
+OW046-002;Laakkanaal_brug Veluweplein;'s-Gravenhage;79933;452903;2019;7;RTR;EBEO_H&W;Stad;Ja;Boezem;1
+OW047-001;Leidsche Vliet_Delftsekade Nieuwstraat;Leidschendam-Voorburg;86907;454990;2016;7;NA;EBEO_H&W;Stad;Ja;Boezem;25
+OW047-001;Leidsche Vliet_Delftsekade Nieuwstraat;Leidschendam-Voorburg;86907;454990;2024;6;FBT;EBEO_H&W;Stad;Ja;Boezem;14
+OW047-001;Leidsche Vliet_Delftsekade Nieuwstraat;Leidschendam-Voorburg;86907;454990;2013;6;NA;EBEO_H&W;Stad;Ja;Boezem;7
+OW047-001;Leidsche Vliet_Delftsekade Nieuwstraat;Leidschendam-Voorburg;86907;454990;2022;7;HHE;EBEO_H&W;Stad;Ja;Boezem;5
+OW047-001;Leidsche Vliet_Delftsekade Nieuwstraat;Leidschendam-Voorburg;86907;454990;2019;6;RTR;EBEO_H&W;Stad;Ja;Boezem;2
+OW049-000;Zandvaart_brug ingang Rijswijkse Bos;Rijswijk;82182;451940;2016;7;NA;EBEO_H&W;Stad;Nee;Boezem;13
+OW049-000;Zandvaart_brug ingang Rijswijkse Bos;Rijswijk;82182;451940;2013;7;NA;EBEO_H&W;Stad;Nee;Boezem;15
+OW049-000;Zandvaart_brug ingang Rijswijkse Bos;Rijswijk;82182;451940;2022;8;EFL;EBEO_H&W;Stad;Nee;Boezem;1
+OW049-000;Zandvaart_brug ingang Rijswijkse Bos;Rijswijk;82182;451940;2019;6;RTR;EBEO_H&W;Stad;Nee;Boezem;1
+OW050-002;Loosduinsche Vaart_zijsloot brug M. Ravelweg;'s-Gravenhage;76575;452990;2019;7;RTR;EBEO_H&W;Stad;Nee;Boezem;14
+OW050-002;Loosduinsche Vaart_zijsloot brug M. Ravelweg;'s-Gravenhage;76575;452990;2016;6;NA;EBEO_H&W;Stad;Nee;Boezem;23
+OW050-002;Loosduinsche Vaart_zijsloot brug M. Ravelweg;'s-Gravenhage;76575;452990;2022;7;HHE;EBEO_H&W;Stad;Nee;Boezem;20
+OW051B001;Boezemsloot Madestein_Emiliehoeve;'s-Gravenhage;74730;451260;2016;6;NA;EBEO_H&W;Stad;Nee;Boezem;13
+OW051B001;Boezemsloot Madestein_Emiliehoeve;'s-Gravenhage;74730;451260;2019;7;RTR;EBEO_H&W;Stad;Nee;Boezem;6
+OW051B001;Boezemsloot Madestein_Emiliehoeve;'s-Gravenhage;74730;451260;2013;7;NA;EBEO_H&W;Stad;Nee;Boezem;8
+OW051B001;Boezemsloot Madestein_Emiliehoeve;'s-Gravenhage;74730;451260;2022;6;HHE;EBEO_H&W;Stad;Nee;Boezem;7
+OW051C000;Oostmadeplas_Loosduinen_steiger;'s-Gravenhage;74753;450381;2016;7;NA;EBEO_H&W;Stad;Nee;Boezem;29
+OW051C000;Oostmadeplas_Loosduinen_steiger;'s-Gravenhage;74753;450381;2022;8;EFL;EBEO_H&W;Stad;Nee;Boezem;23
+OW051C000;Oostmadeplas_Loosduinen_steiger;'s-Gravenhage;74753;450381;2013;7;NA;EBEO_H&W;Stad;Nee;Boezem;36
+OW051C000;Oostmadeplas_Loosduinen_steiger;'s-Gravenhage;74753;450381;2019;7;EXT;EBEO_H&W;Stad;Nee;Boezem;13
+OW055-002;Gantel_brug Vogelaer;Westland;76204;448498;2016;6;NA;EBEO_H&W;Glas;Ja;Boezem;17
+OW055-002;Gantel_brug Vogelaer;Westland;76204;448498;2013;7;NA;EBEO_H&W;Glas;Ja;Boezem;15
+OW055-002;Gantel_brug Vogelaer;Westland;76204;448498;2022;8;EFL;EBEO_H&W;Glas;Ja;Boezem;2
+OW056-000;Groote Gantel_Zwartendijk;Westland;73264;447702;2014;7;NA;EBEO_H&W;Glas;Ja;Boezem;25
+OW056-000;Groote Gantel_Zwartendijk;Westland;73264;447702;2015;6;NA;EBEO_H&W;Glas;Ja;Boezem;20
+OW056-000;Groote Gantel_Zwartendijk;Westland;73264;447702;2016;7;NA;EBEO_H&W;Glas;Ja;Boezem;15
+OW056-000;Groote Gantel_Zwartendijk;Westland;73264;447702;2019;8;EXT;EBEO_H&W;Glas;Ja;Boezem;14
+OW056-000;Groote Gantel_Zwartendijk;Westland;73264;447702;2023;8;JSA;EBEO_H&W;Glas;Ja;Boezem;17
+OW056-000;Groote Gantel_Zwartendijk;Westland;73264;447702;2024;6;HHE;EBEO_H&W;Glas;Ja;Boezem;9
+OW056-000;Groote Gantel_Zwartendijk;Westland;73264;447702;2013;7;NA;EBEO_H&W;Glas;Ja;Boezem;10
+OW056-000;Groote Gantel_Zwartendijk;Westland;73264;447702;2021;6;HHE;EBEO_H&W;Glas;Ja;Boezem;2
+OW056-000;Groote Gantel_Zwartendijk;Westland;73264;447702;2017;6;RTR;EBEO_H&W;Glas;Ja;Boezem;1
+OW056-000;Groote Gantel_Zwartendijk;Westland;73264;447702;2018;8;RTR;EBEO_H&W;Glas;Ja;Boezem;1
+OW056-000;Groote Gantel_Zwartendijk;Westland;73264;447702;2020;6;RTR;EBEO_H&W;Glas;Ja;Boezem;1
+OW056-000;Groote Gantel_Zwartendijk;Westland;73264;447702;2022;8;EFL;EBEO_H&W;Glas;Ja;Boezem;0
+OW057-002;s-Gravenzandsche Vaart_Kon. Julianaweg;Westland;71304;447272;2019;8;EXT;EBEO_H&W;Glas;Ja;Boezem;19
+OW057-002;s-Gravenzandsche Vaart_Kon. Julianaweg;Westland;71304;447272;2013;7;NA;EBEO_H&W;Glas;Ja;Boezem;16
+OW057-002;s-Gravenzandsche Vaart_Kon. Julianaweg;Westland;71304;447272;2016;6;NA;EBEO_H&W;Glas;Ja;Boezem;18
+OW057-002;s-Gravenzandsche Vaart_Kon. Julianaweg;Westland;71304;447272;2022;8;EFL;EBEO_H&W;Glas;Ja;Boezem;7
+OW058-000;Vlotwatering_s-Gravenzandseweg;Westland;70732;448546;2013;7;NA;EBEO_H&W;Glas;Ja;Boezem;16
+OW058-000;Vlotwatering_s-Gravenzandseweg;Westland;70732;448546;2016;7;NA;EBEO_H&W;Glas;Ja;Boezem;27
+OW058-000;Vlotwatering_s-Gravenzandseweg;Westland;70732;448546;2019;8;EXT;EBEO_H&W;Glas;Ja;Boezem;25
+OW058-000;Vlotwatering_s-Gravenzandseweg;Westland;70732;448546;2022;7;RWI;EBEO_H&W;Glas;Ja;Boezem;6
+OW061-000;Boomawatering_Casembrootlaan;Westland;73974;449850;2019;8;EXT;EBEO_H&W;Glas;Ja;Boezem;9
+OW061-000;Boomawatering_Casembrootlaan;Westland;73974;449850;2016;6;NA;EBEO_H&W;Glas;Ja;Boezem;11
+OW061-000;Boomawatering_Casembrootlaan;Westland;73974;449850;2022;6;HHE;EBEO_H&W;Glas;Ja;Boezem;5
+OW061-000;Boomawatering_Casembrootlaan;Westland;73974;449850;2023;6;RWI;EBEO_H&W;Glas;Ja;Boezem;6
+OW061-000;Boomawatering_Casembrootlaan;Westland;73974;449850;2013;6;NA;EBEO_H&W;Glas;Ja;Boezem;10
+OW061-000;Boomawatering_Casembrootlaan;Westland;73974;449850;2024;6;RWI;EBEO_H&W;Glas;Ja;Boezem;7
+OW062-002;De Schie_Kruithuisweg;Delft;85194;445311;2014;7;NA;EBEO_Oost;Stad;Ja;Boezem;30
+OW062-002;De Schie_Kruithuisweg;Delft;85194;445311;2013;6;NA;EBEO_Oost;Stad;Ja;Boezem;12
+OW062-002;De Schie_Kruithuisweg;Delft;85194;445311;2023;7;RWI;EBEO_Oost;Stad;Ja;Boezem;18
+OW062-002;De Schie_Kruithuisweg;Delft;85194;445311;2024;6;RWI;EBEO_Oost;Stad;Ja;Boezem;20
+OW062-002;De Schie_Kruithuisweg;Delft;85194;445311;2016;7;NA;EBEO_Oost;Stad;Ja;Boezem;15
+OW062-002;De Schie_Kruithuisweg;Delft;85194;445311;2015;6;NA;EBEO_Oost;Stad;Ja;Boezem;8
+OW062-002;De Schie_Kruithuisweg;Delft;85194;445311;2022;7;EFL;EBEO_Oost;Stad;Ja;Boezem;9
+OW062-002;De Schie_Kruithuisweg;Delft;85194;445311;2019;8;RTR;EBEO_Oost;Stad;Ja;Boezem;10
+OW062-002;De Schie_Kruithuisweg;Delft;85194;445311;2020;6;RTR;EBEO_Oost;Stad;Ja;Boezem;9
+OW062-002;De Schie_Kruithuisweg;Delft;85194;445311;2021;7;HHE;EBEO_Oost;Stad;Ja;Boezem;10
+OW062-002;De Schie_Kruithuisweg;Delft;85194;445311;2018;8;RTR;EBEO_Oost;Stad;Ja;Boezem;4
+OW062-002;De Schie_Kruithuisweg;Delft;85194;445311;2017;6;RTR;EBEO_Oost;Stad;Ja;Boezem;1
+OW062-007;Rotterdamse Schie_Kleine Schiebrug;Rotterdam;89427;439372;2024;6;QWI;EBEO_Oost;Stad;Ja;Boezem;13
+OW062-007;Rotterdamse Schie_Kleine Schiebrug;Rotterdam;89427;439372;2015;6;NA;EBEO_Oost;Stad;Ja;Boezem;16
+OW062-007;Rotterdamse Schie_Kleine Schiebrug;Rotterdam;89427;439372;2018;7;RTR;EBEO_Oost;Stad;Ja;Boezem;12
+OW062-007;Rotterdamse Schie_Kleine Schiebrug;Rotterdam;89427;439372;2021;6;IRO;EBEO_Oost;Stad;Ja;Boezem;2
+OW062B001;Noorderkanaal_Schansbrug;Rotterdam;90733;438821;2024;6;FBT;EBEO_Oost;Stad;Ja;Boezem;20
+OW062B001;Noorderkanaal_Schansbrug;Rotterdam;90733;438821;2015;6;NA;EBEO_Oost;Stad;Ja;Boezem;13
+OW062B001;Noorderkanaal_Schansbrug;Rotterdam;90733;438821;2018;7;RTR;EBEO_Oost;Stad;Ja;Boezem;7
+OW062B001;Noorderkanaal_Schansbrug;Rotterdam;90733;438821;2021;6;IRO;EBEO_Oost;Stad;Ja;Boezem;2
+OW062C000;Delfshavensche Schie_De Beukelsbrug;Rotterdam;89649;437515;2015;6;NA;EBEO_Oost;Stad;Ja;Boezem;17
+OW062C000;Delfshavensche Schie_De Beukelsbrug;Rotterdam;89649;437515;2024;6;QWI;EBEO_Oost;Stad;Ja;Boezem;10
+OW062C000;Delfshavensche Schie_De Beukelsbrug;Rotterdam;89649;437515;2018;7;RTR;EBEO_Oost;Stad;Ja;Boezem;7
+OW062C000;Delfshavensche Schie_De Beukelsbrug;Rotterdam;89649;437515;2021;6;IRO;EBEO_Oost;Stad;Ja;Boezem;0
+OW062D000;Schiedamse Schie_sluis Koopmansbeurs;Schiedam;86965;437179;2018;7;RTR;EBEO_Oost;Stad;Ja;Boezem;4
+OW062D000;Schiedamse Schie_sluis Koopmansbeurs;Schiedam;86965;437179;2021;6;HHE;EBEO_Oost;Stad;Ja;Boezem;2
+OW062D000;Schiedamse Schie_sluis Koopmansbeurs;Schiedam;86965;437179;2015;6;NA;EBEO_Oost;Stad;Ja;Boezem;4
+OW062D000;Schiedamse Schie_sluis Koopmansbeurs;Schiedam;86965;437179;2024;6;QWI;EBEO_Oost;Stad;Ja;Boezem;4
+OW064-001;Berkelsche Zweth_rijksweg A13;Delft;87417;442489;2024;6;FBT;EBEO_Oost;Gras;Nee;Boezem;11
+OW064-001;Berkelsche Zweth_rijksweg A13;Delft;87417;442489;2018;8;RTR;EBEO_Oost;Gras;Nee;Boezem;14
+OW064-001;Berkelsche Zweth_rijksweg A13;Delft;87417;442489;2021;6;HHE;EBEO_Oost;Gras;Nee;Boezem;9
+OW066-000;Pijnackersche Vaart_brug Swanecampen;Pijnacker-Nootdorp;86861;447224;2015;7;NA;EBEO_Oost;Stad;Nee;Boezem;9
+OW066-000;Pijnackersche Vaart_brug Swanecampen;Pijnacker-Nootdorp;86861;447224;2018;8;RTR;EBEO_Oost;Stad;Nee;Boezem;11
+OW066-000;Pijnackersche Vaart_brug Swanecampen;Pijnacker-Nootdorp;86861;447224;2021;7;HHE;EBEO_Oost;Stad;Nee;Boezem;7
+OW066-000;Pijnackersche Vaart_brug Swanecampen;Pijnacker-Nootdorp;86861;447224;2024;6;HHE;EBEO_Oost;Stad;Nee;Boezem;5
+OW069-000;Delft_Molslaan;Delft;84656;447432;2018;6;RTR;EBEO_Oost;Stad;Nee;Boezem;5
+OW069-000;Delft_Molslaan;Delft;84656;447432;2018;7;RTR;EBEO_Oost;Stad;Nee;Boezem;7
+OW069-000;Delft_Molslaan;Delft;84656;447432;2018;8;RTR;EBEO_Oost;Stad;Nee;Boezem;7
+OW069-000;Delft_Molslaan;Delft;84656;447432;2015;8;NA;EBEO_Oost;Stad;Nee;Boezem;15
+OW069-000;Delft_Molslaan;Delft;84656;447432;2024;6;RWI;EBEO_Oost;Stad;Nee;Boezem;11
+OW069-000;Delft_Molslaan;Delft;84656;447432;2021;7;HHE;EBEO_Oost;Stad;Nee;Boezem;6
+OW069-003;Delft_Oude Delft_Oude Kerk;Delft;84145;447663;2018;6;RTR;EBEO_Oost;Stad;Nee;Boezem;6
+OW069-003;Delft_Oude Delft_Oude Kerk;Delft;84145;447663;2018;7;RTR;EBEO_Oost;Stad;Nee;Boezem;6
+OW069-003;Delft_Oude Delft_Oude Kerk;Delft;84145;447663;2018;8;RTR;EBEO_Oost;Stad;Nee;Boezem;5
+OW069-003;Delft_Oude Delft_Oude Kerk;Delft;84145;447663;2015;8;NA;EBEO_Oost;Stad;Nee;Boezem;10
+OW069-003;Delft_Oude Delft_Oude Kerk;Delft;84145;447663;2024;6;RWI;EBEO_Oost;Stad;Nee;Boezem;10
+OW069-003;Delft_Oude Delft_Oude Kerk;Delft;84145;447663;2021;7;HHE;EBEO_Oost;Stad;Nee;Boezem;7
+OW070-000;Bommeer_steiger Voet- Fietsveer;Midden-Delfland;80757;439039;2014;7;NA;EBEO_MD;Gras;Ja;Boezem;53
+OW070-000;Bommeer_steiger Voet- Fietsveer;Midden-Delfland;80757;439039;2023;8;JTO;EBEO_MD;Gras;Ja;Boezem;19
+OW070-000;Bommeer_steiger Voet- Fietsveer;Midden-Delfland;80757;439039;2020;6;RTR;EBEO_MD;Gras;Ja;Boezem;15
+OW070-000;Bommeer_steiger Voet- Fietsveer;Midden-Delfland;80757;439039;2017;6;IRO;EBEO_MD;Gras;Ja;Boezem;4
+OW073-001;Zuidgaag_Doelstraatbrug;Midden-Delfland;78284;439190;2014;7;NA;EBEO_MD;Stad;Nee;Boezem;13
+OW073-001;Zuidgaag_Doelstraatbrug;Midden-Delfland;78284;439190;2017;6;IRO;EBEO_MD;Stad;Nee;Boezem;11
+OW073-001;Zuidgaag_Doelstraatbrug;Midden-Delfland;78284;439190;2023;8;FBT;EBEO_MD;Stad;Nee;Boezem;7
+OW073-001;Zuidgaag_Doelstraatbrug;Midden-Delfland;78284;439190;2020;6;RTR;EBEO_MD;Stad;Nee;Boezem;6
+OW076-001;Oostgaag_Oostgaag 11;Midden-Delfland;80506;442463;2017;6;RTR;EBEO_MD;Gras;Ja;Boezem;17
+OW076-001;Oostgaag_Oostgaag 11;Midden-Delfland;80506;442463;2020;7;RTR;EBEO_MD;Gras;Ja;Boezem;10
+OW076-001;Oostgaag_Oostgaag 11;Midden-Delfland;80506;442463;2022;7;RWI;EBEO_MD;Gras;Ja;Boezem;17
+OW076-001;Oostgaag_Oostgaag 11;Midden-Delfland;80506;442463;2023;8;FBT;EBEO_MD;Gras;Ja;Boezem;17
+OW076-001;Oostgaag_Oostgaag 11;Midden-Delfland;80506;442463;2024;6;HHE;EBEO_MD;Gras;Ja;Boezem;22
+OW076-001;Oostgaag_Oostgaag 11;Midden-Delfland;80506;442463;2021;6;HHE;EBEO_MD;Gras;Ja;Boezem;12
+OW078-002;Lange Sloot_De Backerstraat;Westland;75137;448961;2019;7;EXT;EBEO_H&W;Glas;Nee;Boezem;16
+OW078-002;Lange Sloot_De Backerstraat;Westland;75137;448961;2016;6;NA;EBEO_H&W;Glas;Nee;Boezem;11
+OW078-002;Lange Sloot_De Backerstraat;Westland;75137;448961;2022;8;EFL;EBEO_H&W;Glas;Nee;Boezem;7
+OW078-002;Lange Sloot_De Backerstraat;Westland;75137;448961;2013;6;NA;EBEO_H&W;Glas;Nee;Boezem;12
+OW078-003;Zwartenhoek_Rubenslaan/Toorop Monster;Westland;71980;449253;2016;6;NA;EBEO_H&W;Glas;Nee;Boezem;15
+OW078-003;Zwartenhoek_Rubenslaan/Toorop Monster;Westland;71980;449253;2019;8;EXT;EBEO_H&W;Glas;Nee;Boezem;10
+OW078-003;Zwartenhoek_Rubenslaan/Toorop Monster;Westland;71980;449253;2022;8;EFL;EBEO_H&W;Glas;Nee;Boezem;3
+OW078-003;Zwartenhoek_Rubenslaan/Toorop Monster;Westland;71980;449253;2013;6;NA;EBEO_H&W;Glas;Nee;Boezem;11
+OW078-004;Musschenwatering_brug Waellandweg;Westland;73210;448980;2016;6;NA;EBEO_H&W;Glas;Ja;Boezem;24
+OW078-004;Musschenwatering_brug Waellandweg;Westland;73210;448980;2013;6;NA;EBEO_H&W;Glas;Ja;Boezem;16
+OW078-004;Musschenwatering_brug Waellandweg;Westland;73210;448980;2019;8;EXT;EBEO_H&W;Glas;Ja;Boezem;16
+OW078-004;Musschenwatering_brug Waellandweg;Westland;73210;448980;2022;8;EFL;EBEO_H&W;Glas;Ja;Boezem;9
+OW080-002;Heen- en Geestvaart_Alsemgeestlaan;Westland;70874;445554;2019;8;EXT;EBEO_H&W;Glas;Nee;Boezem;23
+OW080-002;Heen- en Geestvaart_Alsemgeestlaan;Westland;70874;445554;2022;7;EFL;EBEO_H&W;Glas;Nee;Boezem;17
+OW080-002;Heen- en Geestvaart_Alsemgeestlaan;Westland;70874;445554;2013;6;NA;EBEO_H&W;Glas;Nee;Boezem;10
+OW082-000;Nieuwe Tuinen Vaart_Mariendijk;Westland;75854;447544;2013;7;NA;EBEO_H&W;Glas;Nee;Boezem;16
+OW082-000;Nieuwe Tuinen Vaart_Mariendijk;Westland;75854;447544;2022;8;EFL;EBEO_H&W;Glas;Nee;Boezem;15
+OW082-000;Nieuwe Tuinen Vaart_Mariendijk;Westland;75854;447544;2019;8;EXT;EBEO_H&W;Glas;Nee;Boezem;6
+OW082-000;Nieuwe Tuinen Vaart_Mariendijk;Westland;75854;447544;2016;6;NA;EBEO_H&W;Glas;Nee;Boezem;17
+OW086-011;Foppenplas;Midden-Delfland;79749;438849;2014;7;NA;EBEO_MD;Gras;Ja;Boezem;42
+OW086-011;Foppenplas;Midden-Delfland;79749;438849;2020;6;RTR;EBEO_MD;Gras;Ja;Boezem;18
+OW086-011;Foppenplas;Midden-Delfland;79749;438849;2017;6;IRO;EBEO_MD;Gras;Ja;Boezem;6
+OW086-011;Foppenplas;Midden-Delfland;79749;438849;2023;8;FBT;EBEO_MD;Gras;Ja;Boezem;18
+OW101-000;Aalkeet Binnenpolder_gemaal Zuidbuurt 22;Vlaardingen;79261;437011;2023;8;RWI;EBEO_MD;Gras;Nee;Polder;17
+OW101-000;Aalkeet Binnenpolder_gemaal Zuidbuurt 22;Vlaardingen;79261;437011;2020;7;RTR;EBEO_MD;Gras;Nee;Polder;5
+OW101-000;Aalkeet Binnenpolder_gemaal Zuidbuurt 22;Vlaardingen;79261;437011;2014;6;NA;EBEO_MD;Gras;Nee;Polder;24
+OW101-000;Aalkeet Binnenpolder_gemaal Zuidbuurt 22;Vlaardingen;79261;437011;2017;6;WBA;EBEO_MD;Gras;Nee;Polder;7
+OW102-001;Aalkeet Buitenpolder_gemaal Zuidbuurt 53;Vlaardingen;79333;437067;2014;6;NA;EBEO_MD;Gras;Nee;Polder;20
+OW102-001;Aalkeet Buitenpolder_gemaal Zuidbuurt 53;Vlaardingen;79333;437067;2023;8;EFL;EBEO_MD;Gras;Nee;Polder;20
+OW102-001;Aalkeet Buitenpolder_gemaal Zuidbuurt 53;Vlaardingen;79333;437067;2017;6;IRO;EBEO_MD;Gras;Nee;Polder;4
+OW102-001;Aalkeet Buitenpolder_gemaal Zuidbuurt 53;Vlaardingen;79333;437067;2020;7;RTR;EBEO_MD;Gras;Nee;Polder;8
+OW102-012;Aalkeet Buitenpolder_moerasplassen;Vlaardingen;80871;437588;2014;7;NA;EBEO_MD;Gras;Nee;Polder;38
+OW102-012;Aalkeet Buitenpolder_moerasplassen;Vlaardingen;80871;437588;2023;8;QWI;EBEO_MD;Gras;Nee;Polder;14
+OW102-012;Aalkeet Buitenpolder_moerasplassen;Vlaardingen;80871;437588;2017;6;HHE;EBEO_MD;Gras;Nee;Polder;19
+OW103-000;Commandeurspolder_gemaal;Midden-Delfland;78437;439793;2014;6;NA;EBEO_MD;Gras;Nee;Polder;23
+OW103-000;Commandeurspolder_gemaal;Midden-Delfland;78437;439793;2023;8;EFL;EBEO_MD;Gras;Nee;Polder;15
+OW103-000;Commandeurspolder_gemaal;Midden-Delfland;78437;439793;2017;6;IRO;EBEO_MD;Gras;Nee;Polder;9
+OW103-000;Commandeurspolder_gemaal;Midden-Delfland;78437;439793;2020;8;RTR;EBEO_MD;Gras;Nee;Polder;7
+OW103-011;Commandeurspolder_Spuisloot OostKade;Midden-Delfland;80191;439545;2020;8;RTR;EBEO_MD;Gras;Nee;Polder;15
+OW103-011;Commandeurspolder_Spuisloot OostKade;Midden-Delfland;80191;439545;2023;8;RWI;EBEO_MD;Gras;Nee;Polder;17
+OW103-011;Commandeurspolder_Spuisloot OostKade;Midden-Delfland;80191;439545;2014;6;NA;EBEO_MD;Gras;Nee;Polder;19
+OW103-011;Commandeurspolder_Spuisloot OostKade;Midden-Delfland;80191;439545;2017;7;RTR;EBEO_MD;Gras;Nee;Polder;10
+OW104-000;Dijkpolder (Maasland)_Dijkmolen;Midden-Delfland;78430;439944;2014;6;NA;EBEO_MD;Gras;Nee;Polder;21
+OW104-000;Dijkpolder (Maasland)_Dijkmolen;Midden-Delfland;78430;439944;2023;8;EFL;EBEO_MD;Gras;Nee;Polder;14
+OW104-000;Dijkpolder (Maasland)_Dijkmolen;Midden-Delfland;78430;439944;2017;6;IRO;EBEO_MD;Gras;Nee;Polder;5
+OW104-000;Dijkpolder (Maasland)_Dijkmolen;Midden-Delfland;78430;439944;2020;6;RTR;EBEO_MD;Gras;Nee;Polder;8
+OW104-014;Dijkpolder (Maasland)_Weverij Maassluis;Maassluis;77202;438154;2014;6;NA;EBEO_MD;Stad;Nee;Polder;13
+OW104-014;Dijkpolder (Maasland)_Weverij Maassluis;Maassluis;77202;438154;2020;6;RTR;EBEO_MD;Stad;Nee;Polder;11
+OW104-014;Dijkpolder (Maasland)_Weverij Maassluis;Maassluis;77202;438154;2017;6;IRO;EBEO_MD;Stad;Nee;Polder;2
+OW105-012;Dorppolder_Van Wijklaan;Midden-Delfland;80559;443436;2017;7;RTR;EBEO_MD;Gras;Nee;Polder;15
+OW105-012;Dorppolder_Van Wijklaan;Midden-Delfland;80559;443436;2020;7;RTR;EBEO_MD;Gras;Nee;Polder;11
+OW105-012;Dorppolder_Van Wijklaan;Midden-Delfland;80559;443436;2023;8;RWI;EBEO_MD;Gras;Nee;Polder;27
+OW105-012;Dorppolder_Van Wijklaan;Midden-Delfland;80559;443436;2014;6;NA;EBEO_MD;Gras;Nee;Polder;14
+OW106-012;Duifpolder_Duifwatering Kwakelweg 4;Midden-Delfland;80878;440021;2013;6;NA;EBEO_MD;Gras;Nee;Polder;28
+OW106-012;Duifpolder_Duifwatering Kwakelweg 4;Midden-Delfland;80878;440021;2015;7;NA;EBEO_MD;Gras;Nee;Polder;24
+OW106-012;Duifpolder_Duifwatering Kwakelweg 4;Midden-Delfland;80878;440021;2016;6;NA;EBEO_MD;Gras;Nee;Polder;27
+OW106-012;Duifpolder_Duifwatering Kwakelweg 4;Midden-Delfland;80878;440021;2019;8;EXT;EBEO_MD;Gras;Nee;Polder;27
+OW106-012;Duifpolder_Duifwatering Kwakelweg 4;Midden-Delfland;80878;440021;2018;7;RTR;EBEO_MD;Gras;Nee;Polder;17
+OW106-012;Duifpolder_Duifwatering Kwakelweg 4;Midden-Delfland;80878;440021;2020;8;RTR;EBEO_MD;Gras;Nee;Polder;15
+OW106-012;Duifpolder_Duifwatering Kwakelweg 4;Midden-Delfland;80878;440021;2023;8;RWI;EBEO_MD;Gras;Nee;Polder;18
+OW106-012;Duifpolder_Duifwatering Kwakelweg 4;Midden-Delfland;80878;440021;2017;7;RTR;EBEO_MD;Gras;Nee;Polder;7
+OW106-015;Duifpolder_Molensloot_thv 2e zijsloot voor noord. gemaal;Midden-Delfland;81022;442939;2023;8;RWI;EBEO_MD;Gras;Nee;Polder;25
+OW106-015;Duifpolder_Molensloot_thv 2e zijsloot voor noord. gemaal;Midden-Delfland;81022;442939;2020;8;RTR;EBEO_MD;Gras;Nee;Polder;18
+OW106-015;Duifpolder_Molensloot_thv 2e zijsloot voor noord. gemaal;Midden-Delfland;81022;442939;2017;7;RTR;EBEO_MD;Gras;Nee;Polder;15
+OW107-001;Foppenpolder_bij gemaal;Midden-Delfland;79071;437984;2014;6;NA;EBEO_MD;Gras;Nee;Polder;18
+OW107-001;Foppenpolder_bij gemaal;Midden-Delfland;79071;437984;2020;6;RTR;EBEO_MD;Gras;Nee;Polder;12
+OW107-001;Foppenpolder_bij gemaal;Midden-Delfland;79071;437984;2023;8;RWI;EBEO_MD;Gras;Nee;Polder;11
+OW107-001;Foppenpolder_bij gemaal;Midden-Delfland;79071;437984;2017;7;RTR;EBEO_MD;Gras;Nee;Polder;2
+OW107-011;Foppenpolder_moerasplas;Midden-Delfland;79574;438743;2014;7;NA;EBEO_MD;Gras;Nee;Polder;41
+OW107-011;Foppenpolder_moerasplas;Midden-Delfland;79574;438743;2023;8;JTO;EBEO_MD;Gras;Nee;Polder;8
+OW107-011;Foppenpolder_moerasplas;Midden-Delfland;79574;438743;2017;7;RTR;EBEO_MD;Gras;Nee;Polder;5
+OW107-011;Foppenpolder_moerasplas;Midden-Delfland;79574;438743;2020;8;RTR;EBEO_MD;Gras;Nee;Polder;5
+OW108-000;Groeneveldse polder_gemaal;Midden-Delfland;79204;445469;2023;8;JSA;EBEO_MD;Gras;Nee;Polder;25
+OW108-000;Groeneveldse polder_gemaal;Midden-Delfland;79204;445469;2014;7;NA;EBEO_MD;Gras;Nee;Polder;34
+OW108-000;Groeneveldse polder_gemaal;Midden-Delfland;79204;445469;2020;8;RTR;EBEO_MD;Gras;Nee;Polder;10
+OW108-000;Groeneveldse polder_gemaal;Midden-Delfland;79204;445469;2017;7;HHE;EBEO_MD;Gras;Nee;Polder;10
+OW109-100;Harnaschpolder_60 voor gemaal laagdeel;Midden-Delfland;81290;447065;2023;8;FBT;EBEO_MD;Stad;Nee;Polder;5
+OW109-100;Harnaschpolder_60 voor gemaal laagdeel;Midden-Delfland;81290;447065;2017;6;HHE;EBEO_MD;Stad;Nee;Polder;2
+OW109-100;Harnaschpolder_60 voor gemaal laagdeel;Midden-Delfland;81290;447065;2020;7;RTR;EBEO_MD;Stad;Nee;Polder;2
+OW110-000;Hoefpolder_gemaal Sportlaan;Westland;76575;443403;2017;7;HHE;EBEO_MD;Stad;Nee;Polder;11
+OW110-000;Hoefpolder_gemaal Sportlaan;Westland;76575;443403;2023;8;FBT;EBEO_MD;Stad;Nee;Polder;8
+OW110-000;Hoefpolder_gemaal Sportlaan;Westland;76575;443403;2020;8;RTR;EBEO_MD;Stad;Nee;Polder;2
+OW111-000;Holierhoekse- en Zouteveense polder_ brug Slinksloot;Midden-Delfland;82081;440804;2017;7;RTR;EBEO_MD;Gras;Nee;Polder;18
+OW111-000;Holierhoekse- en Zouteveense polder_ brug Slinksloot;Midden-Delfland;82081;440804;2020;7;RTR;EBEO_MD;Gras;Nee;Polder;13
+OW111-000;Holierhoekse- en Zouteveense polder_ brug Slinksloot;Midden-Delfland;82081;440804;2021;6;HHE;EBEO_MD;Gras;Nee;Polder;20
+OW111-000;Holierhoekse- en Zouteveense polder_ brug Slinksloot;Midden-Delfland;82081;440804;2024;6;HHE;EBEO_MD;Gras;Nee;Polder;21
+OW111-000;Holierhoekse- en Zouteveense polder_ brug Slinksloot;Midden-Delfland;82081;440804;2014;7;NA;EBEO_MD;Gras;Nee;Polder;33
+OW111-000;Holierhoekse- en Zouteveense polder_ brug Slinksloot;Midden-Delfland;82081;440804;2019;8;EXT;EBEO_MD;Gras;Nee;Polder;25
+OW111-000;Holierhoekse- en Zouteveense polder_ brug Slinksloot;Midden-Delfland;82081;440804;2023;8;RWI;EBEO_MD;Gras;Nee;Polder;19
+OW111-000;Holierhoekse- en Zouteveense polder_ brug Slinksloot;Midden-Delfland;82081;440804;2015;7;NA;EBEO_MD;Gras;Nee;Polder;13
+OW111-000;Holierhoekse- en Zouteveense polder_ brug Slinksloot;Midden-Delfland;82081;440804;2016;6;NA;EBEO_MD;Gras;Nee;Polder;15
+OW111-000;Holierhoekse- en Zouteveense polder_ brug Slinksloot;Midden-Delfland;82081;440804;2018;7;RTR;EBEO_MD;Gras;Nee;Polder;13
+OW111-000;Holierhoekse- en Zouteveense polder_ brug Slinksloot;Midden-Delfland;82081;440804;2022;7;RWI;EBEO_MD;Gras;Nee;Polder;12
+OW111-020;Holierhoekse- en Zouteveense polder_2e sloot thv Eendenkooi;Midden-Delfland;82632;442759;2014;7;NA;EBEO_MD;Gras;Nee;Polder;39
+OW111-020;Holierhoekse- en Zouteveense polder_2e sloot thv Eendenkooi;Midden-Delfland;82632;442759;2023;8;RWI;EBEO_MD;Gras;Nee;Polder;27
+OW111-020;Holierhoekse- en Zouteveense polder_2e sloot thv Eendenkooi;Midden-Delfland;82632;442759;2017;7;RTR;EBEO_MD;Gras;Nee;Polder;17
+OW111-020;Holierhoekse- en Zouteveense polder_2e sloot thv Eendenkooi;Midden-Delfland;82632;442759;2020;8;RTR;EBEO_MD;Gras;Nee;Polder;14
+OW111-021;Holierhoekse- en Zouteveense polder_Bijsterveldsloot;Midden-Delfland;81847;442900;2014;7;NA;EBEO_MD;Gras;Nee;Polder;27
+OW111-021;Holierhoekse- en Zouteveense polder_Bijsterveldsloot;Midden-Delfland;81847;442900;2023;8;RWI;EBEO_MD;Gras;Nee;Polder;17
+OW111-021;Holierhoekse- en Zouteveense polder_Bijsterveldsloot;Midden-Delfland;81847;442900;2020;7;RTR;EBEO_MD;Gras;Nee;Polder;8
+OW111-021;Holierhoekse- en Zouteveense polder_Bijsterveldsloot;Midden-Delfland;81847;442900;2017;7;RTR;EBEO_MD;Gras;Nee;Polder;10
+OW112-011;Kerkpolder_stuw Zuidkade;Midden-Delfland;82421;443269;2014;7;NA;EBEO_MD;Gras;Nee;Polder;49
+OW112-011;Kerkpolder_stuw Zuidkade;Midden-Delfland;82421;443269;2017;7;RTR;EBEO_MD;Gras;Nee;Polder;10
+OW112-011;Kerkpolder_stuw Zuidkade;Midden-Delfland;82421;443269;2020;7;RTR;EBEO_MD;Gras;Nee;Polder;8
+OW112-011;Kerkpolder_stuw Zuidkade;Midden-Delfland;82421;443269;2023;8;RWI;EBEO_MD;Gras;Nee;Polder;19
+OW113-001;Klaas Engelbrechtspolder_gemaal Rijksstraatweg 20 -22 (N468);Midden-Delfland;81670;444620;2014;6;NA;EBEO_MD;Gras;Nee;Polder;27
+OW113-001;Klaas Engelbrechtspolder_gemaal Rijksstraatweg 20 -22 (N468);Midden-Delfland;81670;444620;2023;8;JSA;EBEO_MD;Gras;Nee;Polder;19
+OW113-001;Klaas Engelbrechtspolder_gemaal Rijksstraatweg 20 -22 (N468);Midden-Delfland;81670;444620;2017;6;HHE;EBEO_MD;Gras;Nee;Polder;9
+OW113-001;Klaas Engelbrechtspolder_gemaal Rijksstraatweg 20 -22 (N468);Midden-Delfland;81670;444620;2020;7;RTR;EBEO_MD;Gras;Nee;Polder;5
+OW113-011;Klaas Engelbrechtspolder_sloot in ANL gebied;Midden-Delfland;80966;444682;2014;6;NA;EBEO_MD;Gras;Nee;Polder;17
+OW113-011;Klaas Engelbrechtspolder_sloot in ANL gebied;Midden-Delfland;80966;444682;2023;8;RWI;EBEO_MD;Gras;Nee;Polder;38
+OW113-011;Klaas Engelbrechtspolder_sloot in ANL gebied;Midden-Delfland;80966;444682;2020;8;RTR;EBEO_MD;Gras;Nee;Polder;15
+OW113-011;Klaas Engelbrechtspolder_sloot in ANL gebied;Midden-Delfland;80966;444682;2017;7;RTR;EBEO_MD;Gras;Nee;Polder;10
+OW114-013;Kralingerpolder_Kralingerpad 1e brug rechts;Midden-Delfland;78104;441396;2023;8;RWI;EBEO_MD;Gras;Nee;Polder;25
+OW114-013;Kralingerpolder_Kralingerpad 1e brug rechts;Midden-Delfland;78104;441396;2014;6;NA;EBEO_MD;Gras;Nee;Polder;23
+OW114-013;Kralingerpolder_Kralingerpad 1e brug rechts;Midden-Delfland;78104;441396;2017;6;IRO;EBEO_MD;Gras;Nee;Polder;8
+OW114-013;Kralingerpolder_Kralingerpad 1e brug rechts;Midden-Delfland;78104;441396;2020;8;RTR;EBEO_MD;Gras;Nee;Polder;6
+OW114-015;Kralingerpolder_stuw Burgerdijkseweg 23;Westland;77906;443027;2023;6;HHE;EBEO_MD;Glas;Nee;Polder;10
+OW114-015;Kralingerpolder_stuw Burgerdijkseweg 23;Westland;77906;443027;2017;7;HHE;EBEO_MD;Glas;Nee;Polder;17
+OW114-015;Kralingerpolder_stuw Burgerdijkseweg 23;Westland;77906;443027;2020;8;RTR;EBEO_MD;Glas;Nee;Polder;4
+OW115-015;Oranjepolder_bermsloot Maasdijk;Westland;74232;442633;2023;8;JSA;EBEO_MD;Glas;Nee;Polder;24
+OW115-015;Oranjepolder_bermsloot Maasdijk;Westland;74232;442633;2017;7;HHE;EBEO_MD;Glas;Nee;Polder;8
+OW115-015;Oranjepolder_bermsloot Maasdijk;Westland;74232;442633;2020;6;RTR;EBEO_MD;Glas;Nee;Polder;5
+OW116-012;Oude Campspolder_kleine Scheewatering Herenwerf;Midden-Delfland;76993;441097;2023;8;RWI;EBEO_MD;Glas;Nee;Polder;19
+OW116-012;Oude Campspolder_kleine Scheewatering Herenwerf;Midden-Delfland;76993;441097;2019;8;EXT;EBEO_MD;Glas;Nee;Polder;13
+OW116-012;Oude Campspolder_kleine Scheewatering Herenwerf;Midden-Delfland;76993;441097;2016;6;NA;EBEO_MD;Glas;Nee;Polder;11
+OW116-012;Oude Campspolder_kleine Scheewatering Herenwerf;Midden-Delfland;76993;441097;2014;6;NA;EBEO_MD;Glas;Nee;Polder;10
+OW116-012;Oude Campspolder_kleine Scheewatering Herenwerf;Midden-Delfland;76993;441097;2015;6;NA;EBEO_MD;Glas;Nee;Polder;11
+OW116-012;Oude Campspolder_kleine Scheewatering Herenwerf;Midden-Delfland;76993;441097;2017;7;HHE;EBEO_MD;Glas;Nee;Polder;3
+OW116-012;Oude Campspolder_kleine Scheewatering Herenwerf;Midden-Delfland;76993;441097;2018;7;RTR;EBEO_MD;Glas;Nee;Polder;2
+OW116-012;Oude Campspolder_kleine Scheewatering Herenwerf;Midden-Delfland;76993;441097;2020;8;RTR;EBEO_MD;Glas;Nee;Polder;2
+OW118-000;Sluispolder_Wippersmolen krooshek gemaal;Maassluis;77852;437955;2014;6;NA;EBEO_MD;Stad;Nee;Polder;20
+OW118-000;Sluispolder_Wippersmolen krooshek gemaal;Maassluis;77852;437955;2020;6;RTR;EBEO_MD;Stad;Nee;Polder;20
+OW118-000;Sluispolder_Wippersmolen krooshek gemaal;Maassluis;77852;437955;2023;8;EFL;EBEO_MD;Stad;Nee;Polder;6
+OW118-000;Sluispolder_Wippersmolen krooshek gemaal;Maassluis;77852;437955;2017;6;IRO;EBEO_MD;Stad;Nee;Polder;1
+OW119-000;Woudse Droogmakerij_nabij gemaal;Midden-Delfland;80898;447472;2017;6;HHE;EBEO_MD;Glas;Nee;Polder;7
+OW119-000;Woudse Droogmakerij_nabij gemaal;Midden-Delfland;80898;447472;2023;8;JSA;EBEO_MD;Glas;Nee;Polder;15
+OW119-000;Woudse Droogmakerij_nabij gemaal;Midden-Delfland;80898;447472;2020;7;RTR;EBEO_MD;Glas;Nee;Polder;2
+OW120-000;Woudse polder_gemaal;Midden-Delfland;81201;446949;2017;6;HHE;EBEO_MD;Stad;Nee;Polder;9
+OW120-000;Woudse polder_gemaal;Midden-Delfland;81201;446949;2020;7;RTR;EBEO_MD;Stad;Nee;Polder;7
+OW120-000;Woudse polder_gemaal;Midden-Delfland;81201;446949;2023;8;FBT;EBEO_MD;Stad;Nee;Polder;3
+OW121-000;Steendijkpolder_Schenkeldijk;Maassluis;74694;439841;2017;7;HHE;EBEO_MD;Stad;Nee;Polder;14
+OW121-000;Steendijkpolder_Schenkeldijk;Maassluis;74694;439841;2023;8;EFL;EBEO_MD;Stad;Nee;Polder;9
+OW121-000;Steendijkpolder_Schenkeldijk;Maassluis;74694;439841;2014;6;NA;EBEO_MD;Stad;Nee;Polder;13
+OW121-000;Steendijkpolder_Schenkeldijk;Maassluis;74694;439841;2020;6;RTR;EBEO_MD;Stad;Nee;Polder;8
+OW123-011;Babberspolder_Vlaardingen_Speenkruidstraat;Vlaardingen;84555;437297;2023;8;RWI;EBEO_MD;Stad;Nee;Polder;24
+OW123-011;Babberspolder_Vlaardingen_Speenkruidstraat;Vlaardingen;84555;437297;2017;7;RTR;EBEO_MD;Stad;Nee;Polder;8
+OW123-011;Babberspolder_Vlaardingen_Speenkruidstraat;Vlaardingen;84555;437297;2020;7;RTR;EBEO_MD;Stad;Nee;Polder;15
+OW123-011;Babberspolder_Vlaardingen_Speenkruidstraat;Vlaardingen;84555;437297;2014;6;NA;EBEO_MD;Stad;Nee;Polder;10
+OW124-011;Polder Vlaardingen-Holierhoek_Lepelaarsingel;Vlaardingen;83794;438245;2023;8;RWI;EBEO_MD;Stad;Nee;Polder;10
+OW124-011;Polder Vlaardingen-Holierhoek_Lepelaarsingel;Vlaardingen;83794;438245;2014;6;NA;EBEO_MD;Stad;Nee;Polder;11
+OW124-011;Polder Vlaardingen-Holierhoek_Lepelaarsingel;Vlaardingen;83794;438245;2020;7;RTR;EBEO_MD;Stad;Nee;Polder;6
+OW124-011;Polder Vlaardingen-Holierhoek_Lepelaarsingel;Vlaardingen;83794;438245;2017;7;RTR;EBEO_MD;Stad;Nee;Polder;3
+OW124-012;Polder Vlaardingen-Holierhoek_wijkpark Olmendreef;Vlaardingen;83605;439546;2014;6;NA;EBEO_MD;Stad;Nee;Polder;9
+OW124-012;Polder Vlaardingen-Holierhoek_wijkpark Olmendreef;Vlaardingen;83605;439546;2020;7;RTR;EBEO_MD;Stad;Nee;Polder;5
+OW124-012;Polder Vlaardingen-Holierhoek_wijkpark Olmendreef;Vlaardingen;83605;439546;2023;8;RWI;EBEO_MD;Stad;Nee;Polder;6
+OW124-012;Polder Vlaardingen-Holierhoek_wijkpark Olmendreef;Vlaardingen;83605;439546;2017;7;RTR;EBEO_MD;Stad;Nee;Polder;2
+OW127-013;Polder Vlaardingen-west_heemtuin dr. Wiardi Beckmansingel;Vlaardingen;81360;436447;2020;7;RTR;EBEO_MD;Stad;Nee;Polder;10
+OW127-013;Polder Vlaardingen-west_heemtuin dr. Wiardi Beckmansingel;Vlaardingen;81360;436447;2023;8;RWI;EBEO_MD;Stad;Nee;Polder;15
+OW127-013;Polder Vlaardingen-west_heemtuin dr. Wiardi Beckmansingel;Vlaardingen;81360;436447;2014;6;NA;EBEO_MD;Stad;Nee;Polder;13
+OW127-013;Polder Vlaardingen-west_heemtuin dr. Wiardi Beckmansingel;Vlaardingen;81360;436447;2017;7;RTR;EBEO_MD;Stad;Nee;Polder;5
+OW201-000;Ackerdijksche polder_gemaal Rotterdamseweg;Midden-Delfland;86541;442597;2018;8;RTR;EBEO_Oost;Gras;Nee;Polder;11
+OW201-000;Ackerdijksche polder_gemaal Rotterdamseweg;Midden-Delfland;86541;442597;2021;6;HHE;EBEO_Oost;Gras;Nee;Polder;17
+OW201-000;Ackerdijksche polder_gemaal Rotterdamseweg;Midden-Delfland;86541;442597;2024;6;FBT;EBEO_Oost;Gras;Nee;Polder;14
+OW201-028;Ackerdijksche polder_ vml stuw Zuid Molensloot;Pijnacker-Nootdorp;87919;443592;2018;8;RTR;EBEO_Oost;Gras;Nee;Polder;21
+OW201-028;Ackerdijksche polder_ vml stuw Zuid Molensloot;Pijnacker-Nootdorp;87919;443592;2021;7;HHE;EBEO_Oost;Gras;Nee;Polder;30
+OW201-028;Ackerdijksche polder_ vml stuw Zuid Molensloot;Pijnacker-Nootdorp;87919;443592;2024;6;HHE;EBEO_Oost;Gras;Nee;Polder;28
+OW201-028;Ackerdijksche polder_ vml stuw Zuid Molensloot;Pijnacker-Nootdorp;87919;443592;2015;8;NA;EBEO_Oost;Gras;Nee;Polder;24
+OW202-111;Polder Berkel, Noordpolder_A.H. Verweijweg;Lansingerland;93486;448527;2018;6;RTR;EBEO_Oost;Glas;Nee;Polder;4
+OW202-111;Polder Berkel, Noordpolder_A.H. Verweijweg;Lansingerland;93486;448527;2024;6;QWI;EBEO_Oost;Glas;Nee;Polder;4
+OW202-111;Polder Berkel, Noordpolder_A.H. Verweijweg;Lansingerland;93486;448527;2021;6;HHE;EBEO_Oost;Glas;Nee;Polder;2
+OW202-112;Polder Berkel, Noordpolder_voetbrug Toopas;Lansingerland;93705;446623;2021;6;HHE;EBEO_Oost;Stad;Nee;Polder;8
+OW202-112;Polder Berkel, Noordpolder_voetbrug Toopas;Lansingerland;93705;446623;2018;8;RTR;EBEO_Oost;Stad;Nee;Polder;7
+OW202-112;Polder Berkel, Noordpolder_voetbrug Toopas;Lansingerland;93705;446623;2024;6;QWI;EBEO_Oost;Stad;Nee;Polder;4
+OW202-211;Polder Berkel, Zuidpolder_Grote Tocht achter gemaal;Lansingerland;90782;442889;2024;6;HHE;EBEO_Oost;Gras;Nee;Polder;8
+OW202-211;Polder Berkel, Zuidpolder_Grote Tocht achter gemaal;Lansingerland;90782;442889;2018;8;RTR;EBEO_Oost;Gras;Nee;Polder;4
+OW202-211;Polder Berkel, Zuidpolder_Grote Tocht achter gemaal;Lansingerland;90782;442889;2021;7;HHE;EBEO_Oost;Gras;Nee;Polder;5
+OW202-317;Polder Berkel, Binnenboezem_Noordeindsevaart_thv Noordeindseweg83;Lansingerland;92987;448400;2018;6;RTR;EBEO_Oost;Stad;Nee;Polder;11
+OW202-317;Polder Berkel, Binnenboezem_Noordeindsevaart_thv Noordeindseweg83;Lansingerland;92987;448400;2021;6;HHE;EBEO_Oost;Stad;Nee;Polder;4
+OW202-317;Polder Berkel, Binnenboezem_Noordeindsevaart_thv Noordeindseweg83;Lansingerland;92987;448400;2024;6;QWI;EBEO_Oost;Stad;Nee;Polder;7
+OW202-321;Polder Berkel, Westpolder_Voorafsche Polder_Klei Hoogte;Lansingerland;91617;447996;2018;8;RTR;EBEO_Oost;Glas;Nee;Polder;10
+OW202-321;Polder Berkel, Westpolder_Voorafsche Polder_Klei Hoogte;Lansingerland;91617;447996;2021;6;HHE;EBEO_Oost;Glas;Nee;Polder;4
+OW202-321;Polder Berkel, Westpolder_Voorafsche Polder_Klei Hoogte;Lansingerland;91617;447996;2024;6;QWI;EBEO_Oost;Glas;Nee;Polder;1
+OW202-322;Polder Berkel, Westpolder_tocht brug spoorbaan;Lansingerland;90939;445177;2024;6;HHE;EBEO_Oost;Stad;Nee;Polder;3
+OW202-322;Polder Berkel, Westpolder_tocht brug spoorbaan;Lansingerland;90939;445177;2021;6;HHE;EBEO_Oost;Stad;Nee;Polder;1
+OW202-322;Polder Berkel, Westpolder_tocht brug spoorbaan;Lansingerland;90939;445177;2018;8;RTR;EBEO_Oost;Stad;Nee;Polder;1
+OW202-323;Polder Berkel, Westpolder_Nw Rodenrijse drgm_laan van Koot;Lansingerland;90489;443523;2024;6;HHE;EBEO_Oost;Stad;Nee;Polder;19
+OW202-323;Polder Berkel, Westpolder_Nw Rodenrijse drgm_laan van Koot;Lansingerland;90489;443523;2018;7;RTR;EBEO_Oost;Stad;Nee;Polder;9
+OW202-323;Polder Berkel, Westpolder_Nw Rodenrijse drgm_laan van Koot;Lansingerland;90489;443523;2021;7;HHE;EBEO_Oost;Stad;Nee;Polder;13
+OW202-324;Polder Berkel, Binnenboezem_Bergboezem tocht Combinatieweg;Lansingerland;89558;443977;2018;8;RTR;EBEO_Oost;Gras;Nee;Polder;14
+OW202-324;Polder Berkel, Binnenboezem_Bergboezem tocht Combinatieweg;Lansingerland;89558;443977;2021;7;HHE;EBEO_Oost;Gras;Nee;Polder;16
+OW202-324;Polder Berkel, Binnenboezem_Bergboezem tocht Combinatieweg;Lansingerland;89558;443977;2024;6;FBT;EBEO_Oost;Gras;Nee;Polder;15
+OW202-324;Polder Berkel, Binnenboezem_Bergboezem tocht Combinatieweg;Lansingerland;89558;443977;2015;8;NA;EBEO_Oost;Gras;Nee;Polder;15
+OW202-331;Polder Berkel, Noordpolder_duiker centrum wijk Meerpld.;Lansingerland;91790;445760;2021;6;HHE;EBEO_Oost;Stad;Nee;Polder;11
+OW202-331;Polder Berkel, Noordpolder_duiker centrum wijk Meerpld.;Lansingerland;91790;445760;2024;6;HHE;EBEO_Oost;Stad;Nee;Polder;17
+OW202-331;Polder Berkel, Noordpolder_duiker centrum wijk Meerpld.;Lansingerland;91790;445760;2018;8;RTR;EBEO_Oost;Stad;Nee;Polder;6
+OW207-002;Hoge Broekpolder_gemaal Zuiderweg;Rijswijk;83620;449636;2015;7;NA;EBEO_Oost;Gras;Nee;Polder;12
+OW207-002;Hoge Broekpolder_gemaal Zuiderweg;Rijswijk;83620;449636;2021;7;HHE;EBEO_Oost;Gras;Nee;Polder;4
+OW207-002;Hoge Broekpolder_gemaal Zuiderweg;Rijswijk;83620;449636;2024;6;RWI;EBEO_Oost;Gras;Nee;Polder;4
+OW207-002;Hoge Broekpolder_gemaal Zuiderweg;Rijswijk;83620;449636;2018;8;RTR;EBEO_Oost;Gras;Nee;Polder;3
+OW208-013;Lage Abtswoudsche polder_Van Der Slootsingel;Delft;83048;445090;2015;7;NA;EBEO_Oost;Stad;Nee;Polder;18
+OW208-013;Lage Abtswoudsche polder_Van Der Slootsingel;Delft;83048;445090;2018;6;RTR;EBEO_Oost;Stad;Nee;Polder;10
+OW208-013;Lage Abtswoudsche polder_Van Der Slootsingel;Delft;83048;445090;2021;7;HHE;EBEO_Oost;Stad;Nee;Polder;5
+OW208-013;Lage Abtswoudsche polder_Van Der Slootsingel;Delft;83048;445090;2024;6;FBT;EBEO_Oost;Stad;Nee;Polder;5
+OW208-014;Lage Abtswoudsche polder_Watering Tanthofkade;Midden-Delfland;83518;442799;2015;7;NA;EBEO_Oost;Gras;Nee;Polder;22
+OW208-014;Lage Abtswoudsche polder_Watering Tanthofkade;Midden-Delfland;83518;442799;2021;7;HHE;EBEO_Oost;Gras;Nee;Polder;20
+OW208-014;Lage Abtswoudsche polder_Watering Tanthofkade;Midden-Delfland;83518;442799;2024;7;RWI;EBEO_Oost;Gras;Nee;Polder;19
+OW208-014;Lage Abtswoudsche polder_Watering Tanthofkade;Midden-Delfland;83518;442799;2018;7;RTR;EBEO_Oost;Gras;Nee;Polder;6
+OW208-015;Lage Abtswoudsche polder_sloot Vulcanusweg;Delft;84523;445660;2024;6;RWI;EBEO_Oost;Stad;Nee;Polder;17
+OW208-015;Lage Abtswoudsche polder_sloot Vulcanusweg;Delft;84523;445660;2015;7;NA;EBEO_Oost;Stad;Nee;Polder;15
+OW208-015;Lage Abtswoudsche polder_sloot Vulcanusweg;Delft;84523;445660;2021;7;HHE;EBEO_Oost;Stad;Nee;Polder;7
+OW208-015;Lage Abtswoudsche polder_sloot Vulcanusweg;Delft;84523;445660;2018;8;RTR;EBEO_Oost;Stad;Nee;Polder;6
+OW208-016;Lage Abtswoudsche polder_3e Werelddreef;Delft;83528;444367;2022;6;HHE;EBEO_Oost;Stad;Nee;Polder;13
+OW208-016;Lage Abtswoudsche polder_3e Werelddreef;Delft;83528;444367;2021;7;HHE;EBEO_Oost;Stad;Nee;Polder;9
+OW208-016;Lage Abtswoudsche polder_3e Werelddreef;Delft;83528;444367;2024;6;FBT;EBEO_Oost;Stad;Nee;Polder;8
+OW208-016;Lage Abtswoudsche polder_3e Werelddreef;Delft;83528;444367;2015;7;NA;EBEO_Oost;Stad;Nee;Polder;14
+OW208-016;Lage Abtswoudsche polder_3e Werelddreef;Delft;83528;444367;2018;6;RTR;EBEO_Oost;Stad;Nee;Polder;6
+OW209-010;Lage Broekpolder_Ypenburg_van Campenvaart;'s-Gravenhage;85078;450144;2015;7;NA;EBEO_Oost;Stad;Nee;Polder;16
+OW209-010;Lage Broekpolder_Ypenburg_van Campenvaart;'s-Gravenhage;85078;450144;2021;7;HHE;EBEO_Oost;Stad;Nee;Polder;3
+OW209-010;Lage Broekpolder_Ypenburg_van Campenvaart;'s-Gravenhage;85078;450144;2024;6;RWI;EBEO_Oost;Stad;Nee;Polder;11
+OW209-010;Lage Broekpolder_Ypenburg_van Campenvaart;'s-Gravenhage;85078;450144;2018;8;RTR;EBEO_Oost;Stad;Nee;Polder;2
+OW210-002;Nieuwe of drooggemaakte polder van Pijnacker_gemaal Thorbeckelaan;Pijnacker-Nootdorp;89072;449274;2015;7;NA;EBEO_Oost;Stad;Nee;Polder;13
+OW210-002;Nieuwe of drooggemaakte polder van Pijnacker_gemaal Thorbeckelaan;Pijnacker-Nootdorp;89072;449274;2024;6;QWI;EBEO_Oost;Stad;Nee;Polder;2
+OW210-002;Nieuwe of drooggemaakte polder van Pijnacker_gemaal Thorbeckelaan;Pijnacker-Nootdorp;89072;449274;2018;7;RTR;EBEO_Oost;Stad;Nee;Polder;2
+OW210-002;Nieuwe of drooggemaakte polder van Pijnacker_gemaal Thorbeckelaan;Pijnacker-Nootdorp;89072;449274;2021;7;RWI;EBEO_Oost;Stad;Nee;Polder;0
+OW211-011;Noord-Kethelpolder_sloot thv Oostveenseweg;Schiedam;84929;441534;2020;6;RTR;EBEO_Oost;Gras;Nee;Polder;20
+OW211-011;Noord-Kethelpolder_sloot thv Oostveenseweg;Schiedam;84929;441534;2021;6;HHE;EBEO_Oost;Gras;Nee;Polder;21
+OW211-011;Noord-Kethelpolder_sloot thv Oostveenseweg;Schiedam;84929;441534;2018;7;RTR;EBEO_Oost;Gras;Nee;Polder;16
+OW211-011;Noord-Kethelpolder_sloot thv Oostveenseweg;Schiedam;84929;441534;2024;6;QWI;EBEO_Oost;Gras;Nee;Polder;24
+OW211-011;Noord-Kethelpolder_sloot thv Oostveenseweg;Schiedam;84929;441534;2015;7;NA;EBEO_Oost;Gras;Nee;Polder;19
+OW211-013;Noord-Kethelpolder_sloot achter boerderij Schieweg;Midden-Delfland;86212;442864;2021;7;HHE;EBEO_Oost;Gras;Nee;Polder;11
+OW211-013;Noord-Kethelpolder_sloot achter boerderij Schieweg;Midden-Delfland;86212;442864;2024;6;QWI;EBEO_Oost;Gras;Nee;Polder;32
+OW211-013;Noord-Kethelpolder_sloot achter boerderij Schieweg;Midden-Delfland;86212;442864;2018;8;RTR;EBEO_Oost;Gras;Nee;Polder;7
+OW211-013;Noord-Kethelpolder_sloot achter boerderij Schieweg;Midden-Delfland;86212;442864;2015;7;NA;EBEO_Oost;Gras;Nee;Polder;13
+OW212-016;Noordpolder van Delfgauw_Bieslandse bos Kreken west;Pijnacker-Nootdorp;87564;448857;2015;7;NA;EBEO_Oost;Gras;Nee;Polder;10
+OW212-016;Noordpolder van Delfgauw_Bieslandse bos Kreken west;Pijnacker-Nootdorp;87564;448857;2018;7;RTR;EBEO_Oost;Gras;Nee;Polder;5
+OW212-016;Noordpolder van Delfgauw_Bieslandse bos Kreken west;Pijnacker-Nootdorp;87564;448857;2021;7;RWI;EBEO_Oost;Gras;Nee;Polder;4
+OW212-016;Noordpolder van Delfgauw_Bieslandse bos Kreken west;Pijnacker-Nootdorp;87564;448857;2024;6;HHE;EBEO_Oost;Gras;Nee;Polder;13
+OW212-017;Noordpolder van Delfgauw_watergang  Kooltuinen;Pijnacker-Nootdorp;87321;447654;2015;7;NA;EBEO_Oost;Glas;Nee;Polder;10
+OW212-017;Noordpolder van Delfgauw_watergang  Kooltuinen;Pijnacker-Nootdorp;87321;447654;2024;6;HHE;EBEO_Oost;Glas;Nee;Polder;16
+OW212-017;Noordpolder van Delfgauw_watergang  Kooltuinen;Pijnacker-Nootdorp;87321;447654;2018;8;RTR;EBEO_Oost;Glas;Nee;Polder;6
+OW212-017;Noordpolder van Delfgauw_watergang  Kooltuinen;Pijnacker-Nootdorp;87321;447654;2021;7;RWI;EBEO_Oost;Glas;Nee;Polder;4
+OW213B021;Oude Polder van Pijnacker_Plas van Buijsen;NA;89559;446752;2015;6;NA;EBEO_Oost;Stad;Nee;Polder;35
+OW213B021;Oude Polder van Pijnacker_Plas van Buijsen;NA;89559;446752;2018;6;RTR;EBEO_Oost;Stad;Nee;Polder;23
+OW213B021;Oude Polder van Pijnacker_Plas van Buijsen;NA;89559;446752;2024;6;FBT;EBEO_Oost;Stad;Nee;Polder;28
+OW213B021;Oude Polder van Pijnacker_Plas van Buijsen;NA;89559;446752;2021;7;HHE;EBEO_Oost;Stad;Nee;Polder;15
+OW213B024;Oude Polder van Pijnacker_singel thv A.Jacobsstraat;Pijnacker-Nootdorp;90323;447580;2013;6;NA;EBEO_Oost;Stad;Nee;Polder;30
+OW213B024;Oude Polder van Pijnacker_singel thv A.Jacobsstraat;Pijnacker-Nootdorp;90323;447580;2014;6;NA;EBEO_Oost;Stad;Nee;Polder;37
+OW213B024;Oude Polder van Pijnacker_singel thv A.Jacobsstraat;Pijnacker-Nootdorp;90323;447580;2024;6;QWI;EBEO_Oost;Stad;Nee;Polder;23
+OW213B024;Oude Polder van Pijnacker_singel thv A.Jacobsstraat;Pijnacker-Nootdorp;90323;447580;2021;6;HHE;EBEO_Oost;Stad;Nee;Polder;19
+OW213B024;Oude Polder van Pijnacker_singel thv A.Jacobsstraat;Pijnacker-Nootdorp;90323;447580;2017;6;WBA;EBEO_Oost;Stad;Nee;Polder;15
+OW213B024;Oude Polder van Pijnacker_singel thv A.Jacobsstraat;Pijnacker-Nootdorp;90323;447580;2019;7;RTR;EBEO_Oost;Stad;Nee;Polder;14
+OW213B024;Oude Polder van Pijnacker_singel thv A.Jacobsstraat;Pijnacker-Nootdorp;90323;447580;2020;6;RTR;EBEO_Oost;Stad;Nee;Polder;10
+OW213B024;Oude Polder van Pijnacker_singel thv A.Jacobsstraat;Pijnacker-Nootdorp;90323;447580;2018;8;RTR;EBEO_Oost;Stad;Nee;Polder;10
+OW213B025;Oude Polder van Pijnacker_singel Anna van Saksenstraat;Pijnacker-Nootdorp;89838;447932;2024;6;QWI;EBEO_Oost;Stad;Nee;Polder;6
+OW213B025;Oude Polder van Pijnacker_singel Anna van Saksenstraat;Pijnacker-Nootdorp;89838;447932;2018;8;RTR;EBEO_Oost;Stad;Nee;Polder;6
+OW213B025;Oude Polder van Pijnacker_singel Anna van Saksenstraat;Pijnacker-Nootdorp;89838;447932;2021;6;HHE;EBEO_Oost;Stad;Nee;Polder;5
+OW214-000;Polder van Biesland_gemaal Noordeindseweg;Pijnacker-Nootdorp;86459;448601;2024;6;HHE;EBEO_Oost;Gras;Nee;Polder;15
+OW214-000;Polder van Biesland_gemaal Noordeindseweg;Pijnacker-Nootdorp;86459;448601;2015;7;NA;EBEO_Oost;Gras;Nee;Polder;19
+OW214-000;Polder van Biesland_gemaal Noordeindseweg;Pijnacker-Nootdorp;86459;448601;2018;7;RTR;EBEO_Oost;Gras;Nee;Polder;10
+OW214-000;Polder van Biesland_gemaal Noordeindseweg;Pijnacker-Nootdorp;86459;448601;2021;7;RWI;EBEO_Oost;Gras;Nee;Polder;4
+OW215-024;Polder van Nootdorp_tocht Nieuwkoopseweg;Pijnacker-Nootdorp;88817;450810;2015;7;NA;EBEO_Oost;Glas;Nee;Polder;13
+OW215-024;Polder van Nootdorp_tocht Nieuwkoopseweg;Pijnacker-Nootdorp;88817;450810;2021;6;HHE;EBEO_Oost;Glas;Nee;Polder;9
+OW215-024;Polder van Nootdorp_tocht Nieuwkoopseweg;Pijnacker-Nootdorp;88817;450810;2024;6;EFL;EBEO_Oost;Glas;Nee;Polder;16
+OW215-024;Polder van Nootdorp_tocht Nieuwkoopseweg;Pijnacker-Nootdorp;88817;450810;2018;7;RTR;EBEO_Oost;Glas;Nee;Polder;8
+OW215-025;Polder van Nootdorp_tocht Brug Zwanenbloem;Pijnacker-Nootdorp;87295;450685;2021;6;HHE;EBEO_Oost;Stad;Nee;Polder;16
+OW215-025;Polder van Nootdorp_tocht Brug Zwanenbloem;Pijnacker-Nootdorp;87295;450685;2015;7;NA;EBEO_Oost;Stad;Nee;Polder;16
+OW215-025;Polder van Nootdorp_tocht Brug Zwanenbloem;Pijnacker-Nootdorp;87295;450685;2018;7;RTR;EBEO_Oost;Stad;Nee;Polder;8
+OW215-025;Polder van Nootdorp_tocht Brug Zwanenbloem;Pijnacker-Nootdorp;87295;450685;2024;6;RWI;EBEO_Oost;Stad;Nee;Polder;9
+OW215-026;Polder van Nootdorp_hoofdwatergang kruising Middelweg;Delft;85641;449531;2015;7;NA;EBEO_Oost;Stad;Nee;Polder;12
+OW215-026;Polder van Nootdorp_hoofdwatergang kruising Middelweg;Delft;85641;449531;2024;6;HHE;EBEO_Oost;Stad;Nee;Polder;9
+OW215-026;Polder van Nootdorp_hoofdwatergang kruising Middelweg;Delft;85641;449531;2020;6;RTR;EBEO_Oost;Stad;Nee;Polder;5
+OW215-026;Polder van Nootdorp_hoofdwatergang kruising Middelweg;Delft;85641;449531;2021;7;HHE;EBEO_Oost;Stad;Nee;Polder;3
+OW215-026;Polder van Nootdorp_hoofdwatergang kruising Middelweg;Delft;85641;449531;2018;8;RTR;EBEO_Oost;Stad;Nee;Polder;3
+OW215-026;Polder van Nootdorp_hoofdwatergang kruising Middelweg;Delft;85641;449531;2019;6;RTR;EBEO_Oost;Stad;Nee;Polder;7
+OW215-026;Polder van Nootdorp_hoofdwatergang kruising Middelweg;Delft;85641;449531;2017;7;RTR;EBEO_Oost;Stad;Nee;Polder;1
+OW215-032;Polder van Nootdorp_Leidschenveen_op brug Jacobsmantelstraat;'s-Gravenhage;87905;453290;2015;7;NA;EBEO_Oost;Stad;Nee;Polder;9
+OW215-032;Polder van Nootdorp_Leidschenveen_op brug Jacobsmantelstraat;'s-Gravenhage;87905;453290;2021;6;IRO;EBEO_Oost;Stad;Nee;Polder;2
+OW215-032;Polder van Nootdorp_Leidschenveen_op brug Jacobsmantelstraat;'s-Gravenhage;87905;453290;2018;7;RTR;EBEO_Oost;Stad;Nee;Polder;3
+OW215-032;Polder van Nootdorp_Leidschenveen_op brug Jacobsmantelstraat;'s-Gravenhage;87905;453290;2024;6;FBT;EBEO_Oost;Stad;Nee;Polder;6
+OW216-002;Poldervaartpolder_Schiedam_gemaal Fokkerstraat;Schiedam;86922;438560;2015;6;NA;EBEO_Oost;Stad;Nee;Polder;27
+OW216-002;Poldervaartpolder_Schiedam_gemaal Fokkerstraat;Schiedam;86922;438560;2024;6;QWI;EBEO_Oost;Stad;Nee;Polder;10
+OW216-002;Poldervaartpolder_Schiedam_gemaal Fokkerstraat;Schiedam;86922;438560;2021;6;HHE;EBEO_Oost;Stad;Nee;Polder;19
+OW216-004;Poldervaartpolder_Schiedam_Beatrixpark brug theepaviljoen;Schiedam;86136;438411;2015;7;NA;EBEO_Oost;Stad;Nee;Polder;29
+OW216-004;Poldervaartpolder_Schiedam_Beatrixpark brug theepaviljoen;Schiedam;86136;438411;2018;7;RTR;EBEO_Oost;Stad;Nee;Polder;10
+OW216-004;Poldervaartpolder_Schiedam_Beatrixpark brug theepaviljoen;Schiedam;86136;438411;2021;6;HHE;EBEO_Oost;Stad;Nee;Polder;8
+OW216-004;Poldervaartpolder_Schiedam_Beatrixpark brug theepaviljoen;Schiedam;86136;438411;2024;6;QWI;EBEO_Oost;Stad;Nee;Polder;7
+OW216-006;Poldervaartpolder_Schiedam_Thorbeckesingel  Wibautplein;Schiedam;85978;437178;2020;6;RTR;EBEO_Oost;Stad;Nee;Polder;4
+OW216-006;Poldervaartpolder_Schiedam_Thorbeckesingel  Wibautplein;Schiedam;85978;437178;2023;6;EFL;EBEO_Oost;Stad;Nee;Polder;9
+OW216-006;Poldervaartpolder_Schiedam_Thorbeckesingel  Wibautplein;Schiedam;85978;437178;2024;6;QWI;EBEO_Oost;Stad;Nee;Polder;8
+OW216-006;Poldervaartpolder_Schiedam_Thorbeckesingel  Wibautplein;Schiedam;85978;437178;2015;6;NA;EBEO_Oost;Stad;Nee;Polder;8
+OW216-006;Poldervaartpolder_Schiedam_Thorbeckesingel  Wibautplein;Schiedam;85978;437178;2018;7;RTR;EBEO_Oost;Stad;Nee;Polder;4
+OW216-006;Poldervaartpolder_Schiedam_Thorbeckesingel  Wibautplein;Schiedam;85978;437178;2021;6;HHE;EBEO_Oost;Stad;Nee;Polder;2
+OW216-007;Poldervaartpolder_Schiedam_Groenoord Griegplein;Schiedam;84816;438701;2021;6;HHE;EBEO_Oost;Stad;Nee;Polder;3
+OW216-007;Poldervaartpolder_Schiedam_Groenoord Griegplein;Schiedam;84816;438701;2015;6;NA;EBEO_Oost;Stad;Nee;Polder;17
+OW216-007;Poldervaartpolder_Schiedam_Groenoord Griegplein;Schiedam;84816;438701;2018;7;RTR;EBEO_Oost;Stad;Nee;Polder;6
+OW216-007;Poldervaartpolder_Schiedam_Groenoord Griegplein;Schiedam;84816;438701;2024;6;QWI;EBEO_Oost;Stad;Nee;Polder;2
+OW216-008;Poldervaartpolder_Schiedam_Schiedamsesingel Kasteelweg;Schiedam;85083;440147;2015;6;NA;EBEO_Oost;Stad;Nee;Polder;21
+OW216-008;Poldervaartpolder_Schiedam_Schiedamsesingel Kasteelweg;Schiedam;85083;440147;2020;6;RTR;EBEO_Oost;Stad;Nee;Polder;14
+OW216-008;Poldervaartpolder_Schiedam_Schiedamsesingel Kasteelweg;Schiedam;85083;440147;2023;6;EFL;EBEO_Oost;Stad;Nee;Polder;11
+OW216-008;Poldervaartpolder_Schiedam_Schiedamsesingel Kasteelweg;Schiedam;85083;440147;2024;6;QWI;EBEO_Oost;Stad;Nee;Polder;12
+OW216-008;Poldervaartpolder_Schiedam_Schiedamsesingel Kasteelweg;Schiedam;85083;440147;2021;6;HHE;EBEO_Oost;Stad;Nee;Polder;12
+OW216-008;Poldervaartpolder_Schiedam_Schiedamsesingel Kasteelweg;Schiedam;85083;440147;2018;8;RTR;EBEO_Oost;Stad;Nee;Polder;13
+OW217-000;Polder Schieveen_gemaal Delftweg;Rotterdam;87212;441330;2018;7;RTR;EBEO_Oost;Gras;Nee;Polder;17
+OW217-000;Polder Schieveen_gemaal Delftweg;Rotterdam;87212;441330;2021;6;HHE;EBEO_Oost;Gras;Nee;Polder;14
+OW217-000;Polder Schieveen_gemaal Delftweg;Rotterdam;87212;441330;2024;6;FBT;EBEO_Oost;Gras;Nee;Polder;17
+OW217-016;Polder Schieveen_sloot in de Oude Droogmaking;Rotterdam;88259;441359;2024;6;FBT;EBEO_Oost;Gras;Nee;Polder;12
+OW217-016;Polder Schieveen_sloot in de Oude Droogmaking;Rotterdam;88259;441359;2018;8;RTR;EBEO_Oost;Gras;Nee;Polder;17
+OW217-016;Polder Schieveen_sloot in de Oude Droogmaking;Rotterdam;88259;441359;2021;6;IRO;EBEO_Oost;Gras;Nee;Polder;10
+OW217-017;Polder Schieveen_sloot in Nieuwe Droogmaking;Rotterdam;88315;442590;2021;6;HHE;EBEO_Oost;Gras;Nee;Polder;17
+OW217-017;Polder Schieveen_sloot in Nieuwe Droogmaking;Rotterdam;88315;442590;2024;6;FBT;EBEO_Oost;Gras;Nee;Polder;19
+OW217-017;Polder Schieveen_sloot in Nieuwe Droogmaking;Rotterdam;88315;442590;2018;8;RTR;EBEO_Oost;Gras;Nee;Polder;8
+OW218-100;Tedingerbroekpolder_gemaal Broekweg hoog;Leidschendam-Voorburg;86550;454351;2024;6;FBT;EBEO_Oost;Stad;Nee;Polder;16
+OW218-100;Tedingerbroekpolder_gemaal Broekweg hoog;Leidschendam-Voorburg;86550;454351;2015;6;NA;EBEO_Oost;Stad;Nee;Polder;21
+OW218-100;Tedingerbroekpolder_gemaal Broekweg hoog;Leidschendam-Voorburg;86550;454351;2018;6;RTR;EBEO_Oost;Stad;Nee;Polder;4
+OW218-100;Tedingerbroekpolder_gemaal Broekweg hoog;Leidschendam-Voorburg;86550;454351;2021;6;IRO;EBEO_Oost;Stad;Nee;Polder;4
+OW218-111;Tedingerbroekpolder_Tedingerbroekplas;'s-Gravenhage;85731;452324;2021;6;HHE;EBEO_Oost;Stad;Nee;Polder;20
+OW218-111;Tedingerbroekpolder_Tedingerbroekplas;'s-Gravenhage;85731;452324;2024;6;HHE;EBEO_Oost;Stad;Nee;Polder;38
+OW218-111;Tedingerbroekpolder_Tedingerbroekplas;'s-Gravenhage;85731;452324;2018;7;RTR;EBEO_Oost;Stad;Nee;Polder;25
+OW218-111;Tedingerbroekpolder_Tedingerbroekplas;'s-Gravenhage;85731;452324;2015;6;NA;EBEO_Oost;Stad;Nee;Polder;35
+OW218-112;Tedingerbroekpolder_Bovenwetering Laan.van Beck;'s-Gravenhage;85211;452994;2015;7;NA;EBEO_Oost;Stad;Nee;Polder;14
+OW218-112;Tedingerbroekpolder_Bovenwetering Laan.van Beck;'s-Gravenhage;85211;452994;2021;6;HHE;EBEO_Oost;Stad;Nee;Polder;11
+OW218-112;Tedingerbroekpolder_Bovenwetering Laan.van Beck;'s-Gravenhage;85211;452994;2018;7;RTR;EBEO_Oost;Stad;Nee;Polder;6
+OW218-112;Tedingerbroekpolder_Bovenwetering Laan.van Beck;'s-Gravenhage;85211;452994;2024;6;FBT;EBEO_Oost;Stad;Nee;Polder;6
+OW218-212;Tedingerbroekpolder_Forepark Singel Donau / Theems;'s-Gravenhage;86645;453821;2015;6;NA;EBEO_Oost;Stad;Nee;Polder;19
+OW218-212;Tedingerbroekpolder_Forepark Singel Donau / Theems;'s-Gravenhage;86645;453821;2021;6;HHE;EBEO_Oost;Stad;Nee;Polder;5
+OW218-212;Tedingerbroekpolder_Forepark Singel Donau / Theems;'s-Gravenhage;86645;453821;2024;6;FBT;EBEO_Oost;Stad;Nee;Polder;8
+OW218-212;Tedingerbroekpolder_Forepark Singel Donau / Theems;'s-Gravenhage;86645;453821;2018;7;RTR;EBEO_Oost;Stad;Nee;Polder;4
+OW218-213;Tedingerbroekpolder_Veenwatering brug Haagoort;'s-Gravenhage;87358;452997;2021;6;HHE;EBEO_Oost;Stad;Nee;Polder;10
+OW218-213;Tedingerbroekpolder_Veenwatering brug Haagoort;'s-Gravenhage;87358;452997;2022;7;HHE;EBEO_Oost;Stad;Nee;Polder;14
+OW218-213;Tedingerbroekpolder_Veenwatering brug Haagoort;'s-Gravenhage;87358;452997;2024;6;EFL;EBEO_Oost;Stad;Nee;Polder;10
+OW218-213;Tedingerbroekpolder_Veenwatering brug Haagoort;'s-Gravenhage;87358;452997;2015;7;NA;EBEO_Oost;Stad;Nee;Polder;15
+OW218-213;Tedingerbroekpolder_Veenwatering brug Haagoort;'s-Gravenhage;87358;452997;2018;7;RTR;EBEO_Oost;Stad;Nee;Polder;7
+OW218-311;Tedingerbroekpolder_Plas Van Reef;'s-Gravenhage;86247;452461;2015;6;NA;EBEO_Oost;Stad;Nee;Polder;16
+OW218-311;Tedingerbroekpolder_Plas Van Reef;'s-Gravenhage;86247;452461;2021;6;HHE;EBEO_Oost;Stad;Nee;Polder;9
+OW219-000;Voordijkshoornse polder_gemaal  Polderpad;Midden-Delfland;83048;446782;2015;7;NA;EBEO_Oost;Stad;Nee;Polder;20
+OW219-000;Voordijkshoornse polder_gemaal  Polderpad;Midden-Delfland;83048;446782;2018;7;RTR;EBEO_Oost;Stad;Nee;Polder;5
+OW219-000;Voordijkshoornse polder_gemaal  Polderpad;Midden-Delfland;83048;446782;2024;6;RWI;EBEO_Oost;Stad;Nee;Polder;6
+OW219-000;Voordijkshoornse polder_gemaal  Polderpad;Midden-Delfland;83048;446782;2021;7;HHE;EBEO_Oost;Stad;Nee;Polder;2
+OW219-001;Voordijkshoornse polder_gemaal  Van Houtenstraat;Delft;83458;447826;2021;7;HHE;EBEO_Oost;Stad;Nee;Polder;6
+OW219-001;Voordijkshoornse polder_gemaal  Van Houtenstraat;Delft;83458;447826;2024;6;RWI;EBEO_Oost;Stad;Nee;Polder;16
+OW219-001;Voordijkshoornse polder_gemaal  Van Houtenstraat;Delft;83458;447826;2015;7;NA;EBEO_Oost;Stad;Nee;Polder;18
+OW219-001;Voordijkshoornse polder_gemaal  Van Houtenstraat;Delft;83458;447826;2018;7;RTR;EBEO_Oost;Stad;Nee;Polder;8
+OW220-010;Polder Ypenburg_Ypenburg_Anthony Fokkersingel;'s-Gravenhage;84344;450482;2022;7;HHE;EBEO_Oost;Stad;Nee;Polder;16
+OW220-010;Polder Ypenburg_Ypenburg_Anthony Fokkersingel;'s-Gravenhage;84344;450482;2015;7;NA;EBEO_Oost;Stad;Nee;Polder;16
+OW220-010;Polder Ypenburg_Ypenburg_Anthony Fokkersingel;'s-Gravenhage;84344;450482;2021;7;HHE;EBEO_Oost;Stad;Nee;Polder;8
+OW220-010;Polder Ypenburg_Ypenburg_Anthony Fokkersingel;'s-Gravenhage;84344;450482;2024;6;RWI;EBEO_Oost;Stad;Nee;Polder;19
+OW220-010;Polder Ypenburg_Ypenburg_Anthony Fokkersingel;'s-Gravenhage;84344;450482;2018;7;RTR;EBEO_Oost;Stad;Nee;Polder;5
+OW221A012;Zuidpolder van Delfgauw_Stuw Meloenstraat;Pijnacker-Nootdorp;87696;447016;2013;7;NA;EBEO_Oost;Glas;Nee;Polder;21
+OW221A012;Zuidpolder van Delfgauw_Stuw Meloenstraat;Pijnacker-Nootdorp;87696;447016;2014;7;NA;EBEO_Oost;Glas;Nee;Polder;31
+OW221A012;Zuidpolder van Delfgauw_Stuw Meloenstraat;Pijnacker-Nootdorp;87696;447016;2020;6;RTR;EBEO_Oost;Glas;Nee;Polder;11
+OW221A012;Zuidpolder van Delfgauw_Stuw Meloenstraat;Pijnacker-Nootdorp;87696;447016;2021;7;HHE;EBEO_Oost;Glas;Nee;Polder;5
+OW221A012;Zuidpolder van Delfgauw_Stuw Meloenstraat;Pijnacker-Nootdorp;87696;447016;2018;8;RTR;EBEO_Oost;Glas;Nee;Polder;8
+OW221A012;Zuidpolder van Delfgauw_Stuw Meloenstraat;Pijnacker-Nootdorp;87696;447016;2019;8;RTR;EBEO_Oost;Glas;Nee;Polder;9
+OW221A012;Zuidpolder van Delfgauw_Stuw Meloenstraat;Pijnacker-Nootdorp;87696;447016;2024;6;HHE;EBEO_Oost;Glas;Nee;Polder;9
+OW221A012;Zuidpolder van Delfgauw_Stuw Meloenstraat;Pijnacker-Nootdorp;87696;447016;2015;7;NA;EBEO_Oost;Glas;Nee;Polder;17
+OW221A012;Zuidpolder van Delfgauw_Stuw Meloenstraat;Pijnacker-Nootdorp;87696;447016;2017;7;RTR;EBEO_Oost;Glas;Nee;Polder;7
+OW221A013;Zuidpolder van Delfgauw_Karitaatmolensloot;Pijnacker-Nootdorp;86760;444778;2016;7;NA;EBEO_Oost;Gras;Nee;Polder;20
+OW221A013;Zuidpolder van Delfgauw_Karitaatmolensloot;Pijnacker-Nootdorp;86760;444778;2015;7;NA;EBEO_Oost;Gras;Nee;Polder;21
+OW221A013;Zuidpolder van Delfgauw_Karitaatmolensloot;Pijnacker-Nootdorp;86760;444778;2024;6;FBT;EBEO_Oost;Gras;Nee;Polder;13
+OW221A013;Zuidpolder van Delfgauw_Karitaatmolensloot;Pijnacker-Nootdorp;86760;444778;2019;8;RTR;EBEO_Oost;Gras;Nee;Polder;18
+OW221A013;Zuidpolder van Delfgauw_Karitaatmolensloot;Pijnacker-Nootdorp;86760;444778;2022;7;EFL;EBEO_Oost;Gras;Nee;Polder;11
+OW221A013;Zuidpolder van Delfgauw_Karitaatmolensloot;Pijnacker-Nootdorp;86760;444778;2023;7;RWI;EBEO_Oost;Gras;Nee;Polder;14
+OW221A013;Zuidpolder van Delfgauw_Karitaatmolensloot;Pijnacker-Nootdorp;86760;444778;2013;7;NA;EBEO_Oost;Gras;Nee;Polder;23
+OW221A013;Zuidpolder van Delfgauw_Karitaatmolensloot;Pijnacker-Nootdorp;86760;444778;2020;6;RTR;EBEO_Oost;Gras;Nee;Polder;15
+OW221A013;Zuidpolder van Delfgauw_Karitaatmolensloot;Pijnacker-Nootdorp;86760;444778;2021;7;HHE;EBEO_Oost;Gras;Nee;Polder;12
+OW221A013;Zuidpolder van Delfgauw_Karitaatmolensloot;Pijnacker-Nootdorp;86760;444778;2017;7;RTR;EBEO_Oost;Gras;Nee;Polder;10
+OW221A013;Zuidpolder van Delfgauw_Karitaatmolensloot;Pijnacker-Nootdorp;86760;444778;2018;8;RTR;EBEO_Oost;Gras;Nee;Polder;5
+OW221A014;Zuidpolder van Delfgauw_sloot bij Gr. Eendenplas;Pijnacker-Nootdorp;88475;445903;2015;8;NA;EBEO_Oost;Gras;Nee;Polder;23
+OW221A014;Zuidpolder van Delfgauw_sloot bij Gr. Eendenplas;Pijnacker-Nootdorp;88475;445903;2021;7;HHE;EBEO_Oost;Gras;Nee;Polder;18
+OW221A014;Zuidpolder van Delfgauw_sloot bij Gr. Eendenplas;Pijnacker-Nootdorp;88475;445903;2024;7;RWI;EBEO_Oost;Gras;Nee;Polder;7
+OW221A015;Zuidpolder van Delfgauw_bermsloot Zuideindseweg Dubbel Dank;Pijnacker-Nootdorp;87427;446020;2021;7;HHE;EBEO_Oost;Gras;Nee;Polder;8
+OW221A015;Zuidpolder van Delfgauw_bermsloot Zuideindseweg Dubbel Dank;Pijnacker-Nootdorp;87427;446020;2015;7;NA;EBEO_Oost;Gras;Nee;Polder;18
+OW221A015;Zuidpolder van Delfgauw_bermsloot Zuideindseweg Dubbel Dank;Pijnacker-Nootdorp;87427;446020;2024;6;HHE;EBEO_Oost;Gras;Nee;Polder;10
+OW221A015;Zuidpolder van Delfgauw_bermsloot Zuideindseweg Dubbel Dank;Pijnacker-Nootdorp;87427;446020;2018;8;RTR;EBEO_Oost;Gras;Nee;Polder;9
+OW221A016;Zuidpolder van Delfgauw_Delft_T.U.wijk Schoemakerstraat;Delft;85668;446315;2024;6;RWI;EBEO_Oost;Stad;Nee;Polder;18
+OW221A016;Zuidpolder van Delfgauw_Delft_T.U.wijk Schoemakerstraat;Delft;85668;446315;2018;8;RTR;EBEO_Oost;Stad;Nee;Polder;7
+OW221A016;Zuidpolder van Delfgauw_Delft_T.U.wijk Schoemakerstraat;Delft;85668;446315;2015;7;NA;EBEO_Oost;Stad;Nee;Polder;18
+OW221A016;Zuidpolder van Delfgauw_Delft_T.U.wijk Schoemakerstraat;Delft;85668;446315;2021;7;HHE;EBEO_Oost;Stad;Nee;Polder;7
+OW221A017;Zuidpolder van Delfgauw_T.U.wijk sloot Thijsseweg;Delft;86145;444893;2018;8;RTR;EBEO_Oost;Stad;Nee;Polder;14
+OW221A017;Zuidpolder van Delfgauw_T.U.wijk sloot Thijsseweg;Delft;86145;444893;2015;7;NA;EBEO_Oost;Stad;Nee;Polder;19
+OW221A017;Zuidpolder van Delfgauw_T.U.wijk sloot Thijsseweg;Delft;86145;444893;2021;7;HHE;EBEO_Oost;Stad;Nee;Polder;8
+OW221A017;Zuidpolder van Delfgauw_T.U.wijk sloot Thijsseweg;Delft;86145;444893;2024;6;FBT;EBEO_Oost;Stad;Nee;Polder;5
+OW221A018;Zuidpolder van Delfgauw_Oude Leedsevaart_Wilgenweg oost;Pijnacker-Nootdorp;89238;445013;2018;8;RTR;EBEO_Oost;Gras;Nee;Polder;11
+OW221A018;Zuidpolder van Delfgauw_Oude Leedsevaart_Wilgenweg oost;Pijnacker-Nootdorp;89238;445013;2021;6;HHE;EBEO_Oost;Gras;Nee;Polder;13
+OW221A018;Zuidpolder van Delfgauw_Oude Leedsevaart_Wilgenweg oost;Pijnacker-Nootdorp;89238;445013;2015;8;NA;EBEO_Oost;Gras;Nee;Polder;13
+OW221A018;Zuidpolder van Delfgauw_Oude Leedsevaart_Wilgenweg oost;Pijnacker-Nootdorp;89238;445013;2024;6;HHE;EBEO_Oost;Gras;Nee;Polder;10
+OW221A023;Zuidpolder van Delfgauw_Zuidpoldersingel to. Gaardeniers;Pijnacker-Nootdorp;86666;446556;2021;7;HHE;EBEO_Oost;Stad;Nee;Polder;12
+OW221A023;Zuidpolder van Delfgauw_Zuidpoldersingel to. Gaardeniers;Pijnacker-Nootdorp;86666;446556;2024;6;HHE;EBEO_Oost;Stad;Nee;Polder;16
+OW221A023;Zuidpolder van Delfgauw_Zuidpoldersingel to. Gaardeniers;Pijnacker-Nootdorp;86666;446556;2018;8;RTR;EBEO_Oost;Stad;Nee;Polder;11
+OW221A023;Zuidpolder van Delfgauw_Zuidpoldersingel to. Gaardeniers;Pijnacker-Nootdorp;86666;446556;2015;7;NA;EBEO_Oost;Stad;Nee;Polder;7
+OW221B011;Droogmaking in de Zuidpolder van Delfgauw_Molentocht;Pijnacker-Nootdorp;89517;445483;2015;8;NA;EBEO_Oost;Gras;Nee;Polder;26
+OW221B011;Droogmaking in de Zuidpolder van Delfgauw_Molentocht;Pijnacker-Nootdorp;89517;445483;2021;6;HHE;EBEO_Oost;Gras;Nee;Polder;29
+OW221B011;Droogmaking in de Zuidpolder van Delfgauw_Molentocht;Pijnacker-Nootdorp;89517;445483;2024;6;EFL;EBEO_Oost;Gras;Nee;Polder;26
+OW221B011;Droogmaking in de Zuidpolder van Delfgauw_Molentocht;Pijnacker-Nootdorp;89517;445483;2018;8;RTR;EBEO_Oost;Gras;Nee;Polder;17
+OW224-011;Polder Oud-Mathenesse_Hoekersingel;Rotterdam;88534;437148;2015;6;NA;EBEO_Oost;Stad;Nee;Polder;5
+OW224-011;Polder Oud-Mathenesse_Hoekersingel;Rotterdam;88534;437148;2018;7;RTR;EBEO_Oost;Stad;Nee;Polder;2
+OW224-011;Polder Oud-Mathenesse_Hoekersingel;Rotterdam;88534;437148;2021;6;IRO;EBEO_Oost;Stad;Nee;Polder;3
+OW224-011;Polder Oud-Mathenesse_Hoekersingel;Rotterdam;88534;437148;2024;6;QWI;EBEO_Oost;Stad;Nee;Polder;3
+OW227-011;Oost-Abtspolder_singel Matlingeweg;Rotterdam;87743;439807;2015;6;NA;EBEO_Oost;Stad;Nee;Polder;17
+OW227-011;Oost-Abtspolder_singel Matlingeweg;Rotterdam;87743;439807;2018;7;RTR;EBEO_Oost;Stad;Nee;Polder;8
+OW227-011;Oost-Abtspolder_singel Matlingeweg;Rotterdam;87743;439807;2021;6;IRO;EBEO_Oost;Stad;Nee;Polder;3
+OW227-011;Oost-Abtspolder_singel Matlingeweg;Rotterdam;87743;439807;2024;6;QWI;EBEO_Oost;Stad;Nee;Polder;8
+OW301-002;Boschpolder_100 m van gemaal;Westland;74157;447205;2013;7;NA;EBEO_H&W;Glas;Nee;Polder;12
+OW301-002;Boschpolder_100 m van gemaal;Westland;74157;447205;2019;8;EXT;EBEO_H&W;Glas;Nee;Polder;13
+OW301-002;Boschpolder_100 m van gemaal;Westland;74157;447205;2016;7;NA;EBEO_H&W;Glas;Nee;Polder;13
+OW301-002;Boschpolder_100 m van gemaal;Westland;74157;447205;2022;8;EFL;EBEO_H&W;Glas;Nee;Polder;3
+OW304-001;Heen- en Geestvaartpolder_bermsloot Zanddijk;Westland;70379;446325;2019;8;EXT;EBEO_H&W;Stad;Nee;Polder;11
+OW304-001;Heen- en Geestvaartpolder_bermsloot Zanddijk;Westland;70379;446325;2013;6;NA;EBEO_H&W;Stad;Nee;Polder;13
+OW304-001;Heen- en Geestvaartpolder_bermsloot Zanddijk;Westland;70379;446325;2022;7;EFL;EBEO_H&W;Stad;Nee;Polder;9
+OW306-001;Nieuwland en Noordland Krimsloot nabij Hillwoning;Rotterdam;69745;444367;2019;8;EXT;EBEO_H&W;Glas;Nee;Polder;15
+OW306-001;Nieuwland en Noordland Krimsloot nabij Hillwoning;Rotterdam;69745;444367;2022;7;RWI;EBEO_H&W;Glas;Nee;Polder;17
+OW306-001;Nieuwland en Noordland Krimsloot nabij Hillwoning;Rotterdam;69745;444367;2016;7;NA;EBEO_H&W;Glas;Nee;Polder;10
+OW306-001;Nieuwland en Noordland Krimsloot nabij Hillwoning;Rotterdam;69745;444367;2013;6;NA;EBEO_H&W;Glas;Nee;Polder;9
+OW306-011;Nieuwland en Noordland uitlaat stuw boven strooms bij  Oranjekanaal;Rotterdam;72076;442204;2019;8;EXT;EBEO_H&W;Gras;Nee;Polder;13
+OW306-011;Nieuwland en Noordland uitlaat stuw boven strooms bij  Oranjekanaal;Rotterdam;72076;442204;2016;6;NA;EBEO_H&W;Gras;Nee;Polder;17
+OW306-011;Nieuwland en Noordland uitlaat stuw boven strooms bij  Oranjekanaal;Rotterdam;72076;442204;2022;7;RWI;EBEO_H&W;Gras;Nee;Polder;13
+OW306-011;Nieuwland en Noordland uitlaat stuw boven strooms bij  Oranjekanaal;Rotterdam;72076;442204;2013;6;NA;EBEO_H&W;Gras;Nee;Polder;9
+OW306-022;Nieuwland en Noordland Strandweg nabij nr.27 4e laan links halverwege;Westland;69875;447186;2013;6;NA;EBEO_H&W;Glas;Nee;Polder;17
+OW306-022;Nieuwland en Noordland Strandweg nabij nr.27 4e laan links halverwege;Westland;69875;447186;2019;8;EXT;EBEO_H&W;Glas;Nee;Polder;17
+OW306-022;Nieuwland en Noordland Strandweg nabij nr.27 4e laan links halverwege;Westland;69875;447186;2022;7;RWI;EBEO_H&W;Glas;Nee;Polder;24
+OW306-022;Nieuwland en Noordland Strandweg nabij nr.27 4e laan links halverwege;Westland;69875;447186;2016;6;NA;EBEO_H&W;Glas;Nee;Polder;15
+OW306-024;Nieuwland en Noordland hoge deel Korte Bonnen;Rotterdam;71080;443318;2019;8;EXT;EBEO_H&W;Gras;Nee;Polder;11
+OW306-024;Nieuwland en Noordland hoge deel Korte Bonnen;Rotterdam;71080;443318;2013;6;NA;EBEO_H&W;Gras;Nee;Polder;14
+OW306-024;Nieuwland en Noordland hoge deel Korte Bonnen;Rotterdam;71080;443318;2022;7;RWI;EBEO_H&W;Gras;Nee;Polder;17
+OW306B012;Polder Hoek van Holland Nieuwlandse park brug Rokus de Grootpad;Rotterdam;69334;444171;2013;6;NA;EBEO_H&W;Stad;Nee;Polder;9
+OW306B012;Polder Hoek van Holland Nieuwlandse park brug Rokus de Grootpad;Rotterdam;69334;444171;2022;7;RWI;EBEO_H&W;Stad;Nee;Polder;6
+OW307-011;Het Olieblok Bermsloot t.h.v. Groeneweg 64;Westland;73666;443416;2019;8;EXT;EBEO_H&W;Glas;Nee;Polder;16
+OW307-011;Het Olieblok Bermsloot t.h.v. Groeneweg 64;Westland;73666;443416;2022;7;EFL;EBEO_H&W;Glas;Nee;Polder;19
+OW307-011;Het Olieblok Bermsloot t.h.v. Groeneweg 64;Westland;73666;443416;2013;6;NA;EBEO_H&W;Glas;Nee;Polder;12
+OW309-002;Oude en Nieuwe Broekpolder Zwethkadesloot t.h.v. molen;Westland;78420;446210;2016;6;NA;EBEO_H&W;Glas;Nee;Polder;11
+OW309-002;Oude en Nieuwe Broekpolder Zwethkadesloot t.h.v. molen;Westland;78420;446210;2019;8;EXT;EBEO_H&W;Glas;Nee;Polder;19
+OW309-002;Oude en Nieuwe Broekpolder Zwethkadesloot t.h.v. molen;Westland;78420;446210;2013;7;NA;EBEO_H&W;Glas;Nee;Polder;2
+OW309-002;Oude en Nieuwe Broekpolder Zwethkadesloot t.h.v. molen;Westland;78420;446210;2022;7;RWI;EBEO_H&W;Glas;Nee;Polder;1
+OW309-014;Oude en Nieuwe Broekpolder visvijver;Westland;76393;445838;2013;6;NA;EBEO_H&W;Glas;Nee;Polder;36
+OW309-014;Oude en Nieuwe Broekpolder visvijver;Westland;76393;445838;2022;8;RWI;EBEO_H&W;Glas;Nee;Polder;15
+OW309-014;Oude en Nieuwe Broekpolder visvijver;Westland;76393;445838;2016;7;NA;EBEO_H&W;Glas;Nee;Polder;24
+OW309-014;Oude en Nieuwe Broekpolder visvijver;Westland;76393;445838;2019;8;EXT;EBEO_H&W;Glas;Nee;Polder;7
+OW316A012;De Lange Bonnen _sloot zuid-west hoek;Rotterdam;71307;442891;2019;8;EXT;EBEO_H&W;Gras;Nee;Polder;12
+OW316A012;De Lange Bonnen _sloot zuid-west hoek;Rotterdam;71307;442891;2022;7;RWI;EBEO_H&W;Gras;Nee;Polder;12
+OW316A012;De Lange Bonnen _sloot zuid-west hoek;Rotterdam;71307;442891;2013;6;NA;EBEO_H&W;Gras;Nee;Polder;6
+OW401-001;Eshofpolder_gemaal Vinkenlaantje;'s-Gravenhage;76812;452120;2016;6;NA;EBEO_H&W;Stad;Nee;Polder;10
+OW401-001;Eshofpolder_gemaal Vinkenlaantje;'s-Gravenhage;76812;452120;2019;7;RTR;EBEO_H&W;Stad;Nee;Polder;7
+OW401-001;Eshofpolder_gemaal Vinkenlaantje;'s-Gravenhage;76812;452120;2022;7;HHE;EBEO_H&W;Stad;Nee;Polder;3
+OW401-020;Eshofpolder_singel De Stede;'s-Gravenhage;77501;451266;2022;8;BVK;EBEO_H&W;Stad;Nee;Polder;24
+OW401-020;Eshofpolder_singel De Stede;'s-Gravenhage;77501;451266;2019;7;RTR;EBEO_H&W;Stad;Nee;Polder;6
+OW401-020;Eshofpolder_singel De Stede;'s-Gravenhage;77501;451266;2016;6;NA;EBEO_H&W;Stad;Nee;Polder;4
+OW401-021;Eshofpolder_singel Maartendijklaan;'s-Gravenhage;78754;452178;2014;7;NA;EBEO_H&W;Stad;Nee;Polder;22
+OW401-021;Eshofpolder_singel Maartendijklaan;'s-Gravenhage;78754;452178;2015;7;NA;EBEO_H&W;Stad;Nee;Polder;8
+OW401-021;Eshofpolder_singel Maartendijklaan;'s-Gravenhage;78754;452178;2022;8;BVK;EBEO_H&W;Stad;Nee;Polder;16
+OW401-021;Eshofpolder_singel Maartendijklaan;'s-Gravenhage;78754;452178;2019;7;RTR;EBEO_H&W;Stad;Nee;Polder;6
+OW401-021;Eshofpolder_singel Maartendijklaan;'s-Gravenhage;78754;452178;2018;6;RTR;EBEO_H&W;Stad;Nee;Polder;3
+OW401-021;Eshofpolder_singel Maartendijklaan;'s-Gravenhage;78754;452178;2016;7;NA;EBEO_H&W;Stad;Nee;Polder;16
+OW401-021;Eshofpolder_singel Maartendijklaan;'s-Gravenhage;78754;452178;2017;6;HHE;EBEO_H&W;Stad;Nee;Polder;4
+OW401-021;Eshofpolder_singel Maartendijklaan;'s-Gravenhage;78754;452178;2020;6;RTR;EBEO_H&W;Stad;Nee;Polder;2
+OW401-022;Eshofpolder_Den Haag Zuiderpark_Kanovijver;'s-Gravenhage;79344;452534;2016;7;NA;EBEO_H&W;Stad;Nee;Polder;41
+OW401-022;Eshofpolder_Den Haag Zuiderpark_Kanovijver;'s-Gravenhage;79344;452534;2013;6;NA;EBEO_H&W;Stad;Nee;Polder;43
+OW401-022;Eshofpolder_Den Haag Zuiderpark_Kanovijver;'s-Gravenhage;79344;452534;2019;7;RTR;EBEO_H&W;Stad;Nee;Polder;9
+OW401-022;Eshofpolder_Den Haag Zuiderpark_Kanovijver;'s-Gravenhage;79344;452534;2022;8;HHE;EBEO_H&W;Stad;Nee;Polder;13
+OW402A020;Haagse Beek_J. De Witlaan;'s-Gravenhage;79324;456155;2016;6;NA;EBEO_H&W;Stad;Nee;Polder;21
+OW402A020;Haagse Beek_J. De Witlaan;'s-Gravenhage;79324;456155;2022;7;HHE;EBEO_H&W;Stad;Nee;Polder;23
+OW402A020;Haagse Beek_J. De Witlaan;'s-Gravenhage;79324;456155;2013;7;NA;EBEO_H&W;Stad;Nee;Polder;22
+OW402A020;Haagse Beek_J. De Witlaan;'s-Gravenhage;79324;456155;2019;6;RTR;EBEO_H&W;Stad;Nee;Polder;12
+OW402A021;Haagse Beek_Dr. van Dijkpad;'s-Gravenhage;77555;454974;2013;7;NA;EBEO_H&W;Stad;Nee;Polder;4
+OW402A021;Haagse Beek_Dr. van Dijkpad;'s-Gravenhage;77555;454974;2016;6;NA;EBEO_H&W;Stad;Nee;Polder;23
+OW402A021;Haagse Beek_Dr. van Dijkpad;'s-Gravenhage;77555;454974;2022;7;HHE;EBEO_H&W;Stad;Nee;Polder;3
+OW402A021;Haagse Beek_Dr. van Dijkpad;'s-Gravenhage;77555;454974;2019;6;RTR;EBEO_H&W;Stad;Nee;Polder;5
+OW402A026;Haagse Beek_Domburglaan;'s-Gravenhage;75006;453630;2019;7;RTR;EBEO_H&W;Stad;Nee;Polder;18
+OW402A026;Haagse Beek_Domburglaan;'s-Gravenhage;75006;453630;2016;6;NA;EBEO_H&W;Stad;Nee;Polder;25
+OW402A026;Haagse Beek_Domburglaan;'s-Gravenhage;75006;453630;2022;7;HHE;EBEO_H&W;Stad;Nee;Polder;18
+OW402C017;Haagse Beek_Hofvijver_hele vijver;'s-Gravenhage;81366;455268;2016;7;NA;EBEO_H&W;Stad;Nee;Polder;16
+OW402C017;Haagse Beek_Hofvijver_hele vijver;'s-Gravenhage;81366;455268;2019;7;RTR;EBEO_H&W;Stad;Nee;Polder;19
+OW402C017;Haagse Beek_Hofvijver_hele vijver;'s-Gravenhage;81366;455268;2022;7;RWI;EBEO_H&W;Stad;Nee;Polder;16
+OW402C017;Haagse Beek_Hofvijver_hele vijver;'s-Gravenhage;81366;455268;2013;7;NA;EBEO_H&W;Stad;Nee;Polder;20
+OW407A011;Hoekpolder_recreatiegebied kanovijver;Rijswijk;81379;448679;2013;7;NA;EBEO_H&W;Stad;Nee;Polder;34
+OW407A011;Hoekpolder_recreatiegebied kanovijver;Rijswijk;81379;448679;2016;7;NA;EBEO_H&W;Stad;Nee;Polder;34
+OW407A011;Hoekpolder_recreatiegebied kanovijver;Rijswijk;81379;448679;2019;7;RTR;EBEO_H&W;Stad;Nee;Polder;10
+OW407A011;Hoekpolder_recreatiegebied kanovijver;Rijswijk;81379;448679;2022;7;HHE;EBEO_H&W;Stad;Nee;Polder;0
+OW407A013;Hoekpolder_singel Van Mooklaan;Rijswijk;81226;449565;2013;7;NA;EBEO_H&W;Stad;Nee;Polder;15
+OW407A013;Hoekpolder_singel Van Mooklaan;Rijswijk;81226;449565;2019;7;RTR;EBEO_H&W;Stad;Nee;Polder;12
+OW407A013;Hoekpolder_singel Van Mooklaan;Rijswijk;81226;449565;2022;7;HHE;EBEO_H&W;Stad;Nee;Polder;13
+OW407A013;Hoekpolder_singel Van Mooklaan;Rijswijk;81226;449565;2016;6;NA;EBEO_H&W;Stad;Nee;Polder;13
+OW409A002;Noordpolder_voetbrug Laakweg;'s-Gravenhage;81970;453200;2013;7;NA;EBEO_H&W;Stad;Nee;Polder;29
+OW409A002;Noordpolder_voetbrug Laakweg;'s-Gravenhage;81970;453200;2022;8;HHE;EBEO_H&W;Stad;Nee;Polder;21
+OW409A002;Noordpolder_voetbrug Laakweg;'s-Gravenhage;81970;453200;2016;7;NA;EBEO_H&W;Stad;Nee;Polder;13
+OW409A002;Noordpolder_voetbrug Laakweg;'s-Gravenhage;81970;453200;2019;6;RTR;EBEO_H&W;Stad;Nee;Polder;11
+OW409A012;Noordpolder_Park Den Burg;Rijswijk;82114;452345;2013;7;NA;EBEO_H&W;Stad;Nee;Polder;18
+OW409A012;Noordpolder_Park Den Burg;Rijswijk;82114;452345;2016;7;NA;EBEO_H&W;Stad;Nee;Polder;7
+OW409A012;Noordpolder_Park Den Burg;Rijswijk;82114;452345;2022;8;EFL;EBEO_H&W;Stad;Nee;Polder;7
+OW409A012;Noordpolder_Park Den Burg;Rijswijk;82114;452345;2019;6;RTR;EBEO_H&W;Stad;Nee;Polder;3
+OW411-011;Oud- en Nieuw-Wateringveldschepolder_stuw noord Middenweg;Westland;79024;447769;2022;8;EFL;EBEO_H&W;Glas;Nee;Polder;11
+OW411-011;Oud- en Nieuw-Wateringveldschepolder_stuw noord Middenweg;Westland;79024;447769;2019;7;EXT;EBEO_H&W;Glas;Nee;Polder;12
+OW411-011;Oud- en Nieuw-Wateringveldschepolder_stuw noord Middenweg;Westland;79024;447769;2016;6;NA;EBEO_H&W;Glas;Nee;Polder;12
+OW411-011;Oud- en Nieuw-Wateringveldschepolder_stuw noord Middenweg;Westland;79024;447769;2013;7;NA;EBEO_H&W;Glas;Nee;Polder;12
+OW411-014;Oud- en Nieuw-Wateringveldschepolder_vijverpartij;'s-Gravenhage;79852;448964;2013;6;NA;EBEO_H&W;Stad;Nee;Polder;18
+OW411-014;Oud- en Nieuw-Wateringveldschepolder_vijverpartij;'s-Gravenhage;79852;448964;2016;7;NA;EBEO_H&W;Stad;Nee;Polder;3
+OW411-014;Oud- en Nieuw-Wateringveldschepolder_vijverpartij;'s-Gravenhage;79852;448964;2019;7;RTR;EBEO_H&W;Stad;Nee;Polder;5
+OW411-014;Oud- en Nieuw-Wateringveldschepolder_vijverpartij;'s-Gravenhage;79852;448964;2022;8;HHE;EBEO_H&W;Stad;Nee;Polder;5
+OW412-023;Plaspoel- en Schaapweipolder_Wihelminapark Rijswijk Surfvijver;Rijswijk;82407;449612;2016;7;NA;EBEO_H&W;Stad;Nee;Polder;29
+OW412-023;Plaspoel- en Schaapweipolder_Wihelminapark Rijswijk Surfvijver;Rijswijk;82407;449612;2019;7;RTR;EBEO_H&W;Stad;Nee;Polder;20
+OW412-023;Plaspoel- en Schaapweipolder_Wihelminapark Rijswijk Surfvijver;Rijswijk;82407;449612;2022;8;HHE;EBEO_H&W;Stad;Nee;Polder;24
+OW412-037;Plaspoel- en Schaapweipolder_singel Diepenhorstlaan;Rijswijk;82603;450834;2013;7;NA;EBEO_H&W;Stad;Nee;Polder;20
+OW412-037;Plaspoel- en Schaapweipolder_singel Diepenhorstlaan;Rijswijk;82603;450834;2016;7;NA;EBEO_H&W;Stad;Nee;Polder;14
+OW412-037;Plaspoel- en Schaapweipolder_singel Diepenhorstlaan;Rijswijk;82603;450834;2019;6;RTR;EBEO_H&W;Stad;Nee;Polder;2
+OW412-037;Plaspoel- en Schaapweipolder_singel Diepenhorstlaan;Rijswijk;82603;450834;2022;8;EFL;EBEO_H&W;Stad;Nee;Polder;2
+OW412-038;Plaspoel- en Schaapweipolder_brug Tubasingel;Rijswijk;82052;449670;2022;7;HHE;EBEO_H&W;Stad;Nee;Polder;8
+OW412-038;Plaspoel- en Schaapweipolder_brug Tubasingel;Rijswijk;82052;449670;2013;7;NA;EBEO_H&W;Stad;Nee;Polder;26
+OW412-038;Plaspoel- en Schaapweipolder_brug Tubasingel;Rijswijk;82052;449670;2016;6;NA;EBEO_H&W;Stad;Nee;Polder;13
+OW412-038;Plaspoel- en Schaapweipolder_brug Tubasingel;Rijswijk;82052;449670;2019;7;RTR;EBEO_H&W;Stad;Nee;Polder;6
+OW412-039;Plaspoel- en Schaapweipolder_Dwarsmolensloot Lange Kleiweg;Rijswijk;82978;449438;2013;7;NA;EBEO_H&W;Stad;Nee;Polder;16
+OW412-039;Plaspoel- en Schaapweipolder_Dwarsmolensloot Lange Kleiweg;Rijswijk;82978;449438;2016;6;NA;EBEO_H&W;Stad;Nee;Polder;11
+OW412-039;Plaspoel- en Schaapweipolder_Dwarsmolensloot Lange Kleiweg;Rijswijk;82978;449438;2019;7;RTR;EBEO_H&W;Stad;Nee;Polder;5
+OW412-039;Plaspoel- en Schaapweipolder_Dwarsmolensloot Lange Kleiweg;Rijswijk;82978;449438;2022;7;HHE;EBEO_H&W;Stad;Nee;Polder;5
+OW412-041;Plaspoel- en Schaapweipolder_Rijswijk Put te Werve in het midden;Rijswijk;82114;451433;2016;7;NA;EBEO_H&W;Stad;Nee;Polder;28
+OW412-041;Plaspoel- en Schaapweipolder_Rijswijk Put te Werve in het midden;Rijswijk;82114;451433;2019;7;RTR;EBEO_H&W;Stad;Nee;Polder;18
+OW412-041;Plaspoel- en Schaapweipolder_Rijswijk Put te Werve in het midden;Rijswijk;82114;451433;2022;8;EFL;EBEO_H&W;Stad;Nee;Polder;24
+OW413-001;Veen- en Binkhorstpolder_Machinesloot t.h.v. Mons. V;Leidschendam-Voorburg;84060;454660;2013;7;NA;EBEO_H&W;Stad;Nee;Polder;54
+OW413-001;Veen- en Binkhorstpolder_Machinesloot t.h.v. Mons. V;Leidschendam-Voorburg;84060;454660;2016;6;NA;EBEO_H&W;Stad;Nee;Polder;16
+OW413-001;Veen- en Binkhorstpolder_Machinesloot t.h.v. Mons. V;Leidschendam-Voorburg;84060;454660;2022;7;EFL;EBEO_H&W;Stad;Nee;Polder;21
+OW413-001;Veen- en Binkhorstpolder_Machinesloot t.h.v. Mons. V;Leidschendam-Voorburg;84060;454660;2019;6;RTR;EBEO_H&W;Stad;Nee;Polder;11
+OW413-005;Veen- en Binkhorstpolder_voetbrug Barnsteenhorst;'s-Gravenhage;84220;456815;2013;7;NA;EBEO_H&W;Stad;Nee;Polder;33
+OW413-005;Veen- en Binkhorstpolder_voetbrug Barnsteenhorst;'s-Gravenhage;84220;456815;2016;6;NA;EBEO_H&W;Stad;Nee;Polder;20
+OW413-005;Veen- en Binkhorstpolder_voetbrug Barnsteenhorst;'s-Gravenhage;84220;456815;2022;8;HHE;EBEO_H&W;Stad;Nee;Polder;19
+OW413-005;Veen- en Binkhorstpolder_voetbrug Barnsteenhorst;'s-Gravenhage;84220;456815;2019;6;RTR;EBEO_H&W;Stad;Nee;Polder;14
+OW413-012;Veen- en Binkhorstpolder_De Schenk;'s-Gravenhage;83687;455423;2016;7;NA;EBEO_H&W;Stad;Nee;Polder;31
+OW413-012;Veen- en Binkhorstpolder_De Schenk;'s-Gravenhage;83687;455423;2019;6;RTR;EBEO_H&W;Stad;Nee;Polder;24
+OW413-012;Veen- en Binkhorstpolder_De Schenk;'s-Gravenhage;83687;455423;2022;7;HHE;EBEO_H&W;Stad;Nee;Polder;29
+OW413-012;Veen- en Binkhorstpolder_De Schenk;'s-Gravenhage;83687;455423;2013;6;NA;EBEO_H&W;Stad;Nee;Polder;12
+OW413-013;Veen- en Binkhorstpolder_singel Populierdreef;Leidschendam-Voorburg;85334;455826;2016;7;NA;EBEO_H&W;Stad;Nee;Polder;27
+OW413-013;Veen- en Binkhorstpolder_singel Populierdreef;Leidschendam-Voorburg;85334;455826;2019;6;RTR;EBEO_H&W;Stad;Nee;Polder;7
+OW413-013;Veen- en Binkhorstpolder_singel Populierdreef;Leidschendam-Voorburg;85334;455826;2022;7;HHE;EBEO_H&W;Stad;Nee;Polder;14
+OW413-013;Veen- en Binkhorstpolder_singel Populierdreef;Leidschendam-Voorburg;85334;455826;2013;6;NA;EBEO_H&W;Stad;Nee;Polder;22
+OW414-011;Wippolder_Molensloot Harrie Hoekstraat;Westland;78095;449103;2016;6;NA;EBEO_H&W;Stad;Nee;Polder;22
+OW414-011;Wippolder_Molensloot Harrie Hoekstraat;Westland;78095;449103;2019;7;EXT;EBEO_H&W;Stad;Nee;Polder;13
+OW414-011;Wippolder_Molensloot Harrie Hoekstraat;Westland;78095;449103;2013;7;NA;EBEO_H&W;Stad;Nee;Polder;7
+OW414-011;Wippolder_Molensloot Harrie Hoekstraat;Westland;78095;449103;2022;8;HEB;EBEO_H&W;Stad;Nee;Polder;5
