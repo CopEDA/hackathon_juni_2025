@@ -193,7 +193,7 @@ print(plot_accum)
 }
 ```
 
-# Alle gebieden per 3 jaar 
+# Alle gebieden per 3 jaar
 
 ```{r}
 #| fig-width: 7
