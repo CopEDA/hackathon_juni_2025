@@ -1,0 +1,244 @@
+---
+title: "Species accumulation"
+author: "Johan"
+format: html
+editor: visual
+code-fold: true
+warning: false
+message: false
+toc: true
+lightbox: true
+
+---
+
+## Voorbereiden data
+
+```{r}
+#| label: "Inlezen data"
+library(tidyverse)
+library(glue)
+library(readxl)
+library(twn)
+library(vegan)
+library(HHSKwkl) # https://github.com/HHSK-wkl/HHSKwkl
+# library(openxlsx)
+# library(sf)
+# library(leaflet)
+
+theme_set(HHSKwkl::hhskthema())
+
+data <- read_excel("data/Ecologie_tot_2024.xlsx") 
+meetpunten <- read_excel("data/Macrofyten_Hackathon_update25_06.xlsx", sheet = "Meetpunt_informatie") %>% 
+  rename_all(str_to_lower) %>% 
+  rename(mp = meetobject, mpomsch = naam)
+planten_info <- read_excel("data/planten_info.xlsx") %>% select(naam, aquatisch, bedekkingslaag)
+
+brondata <- 
+  data %>%   
+  select(mp = MeetObject, 
+         datum = MetingDatumTijd, 
+         naam = Parameter, 
+         ) %>% 
+  mutate(jaar = year(datum),
+         maand = month(datum)) %>% 
+  distinct() %>% 
+  left_join(planten_info) %>% 
+  left_join(meetpunten, by = join_by(mp)) %>% 
+  mutate(naam = increase_taxonlevel(naam, "Species")) %>% 
+  distinct() %>% 
+  filter(twn_taxonlevel(naam) <= "Genus")
+
+```
+# Per meetnet
+
+## Data omzetten voor Species Accumulation
+
+Selectie van alleen aquatische soorten
+
+```{r}
+#| label: "Species accumulation"
+input_specaccum <- 
+  brondata %>% 
+  filter(!is.na(meetnet)) %>% 
+  mutate(naam = str_replace(naam, " ", "_"),
+         waarde = 1) %>%
+  # filter(aquatisch != "niet_aquatisch") %>% 
+  filter(aquatisch == "aquatisch") %>%
+  select(-aquatisch, -bedekkingslaag) %>%
+  pivot_wider(names_from = naam, values_from = waarde, values_fill = 0) %>% 
+  group_by(mp, jaar) %>% 
+  filter(case_when(
+    n() == 1 ~ TRUE,
+    maand == 6 ~ TRUE,
+    !any(maand == 6) & maand == 7 ~ TRUE,
+    !any(maand == 6) & !any(maand == 7) & maand == 8 ~ TRUE,
+    !any(maand == 6) & !any(maand == 7) & !any(maand == 8) & maand == 5 ~ TRUE,
+    .default = FALSE
+  )) %>% 
+  ungroup() 
+
+
+
+```
+
+## Uitvoeren Species Accumulation
+
+```{r}
+accum_output <- 
+  input_specaccum %>% 
+  filter(case_when(
+    meetnet == "EBEO_H&W" & jaar %% 3 == 0 ~ TRUE,
+    meetnet == "EBEO_MD" & jaar %% 3 == 1 ~ TRUE,
+    meetnet == "EBEO_Oost" & jaar %% 3 == 2 ~ TRUE,
+    .default = FALSE
+  )) %>% 
+  
+  group_by(jaar, meetnet) %>% 
+  select(-(mp:gebied_type)) %>% 
+  nest() %>% 
+  mutate(accum = map(data, specaccum),
+         richness = map(accum, "richness")) %>%
+  unnest(richness) %>%
+  mutate(nr = row_number()) %>% 
+  ungroup()
+
+```
+
+
+## Figuren maken
+
+```{r}
+#| fig-width: 7
+#| fig-height: 8
+#| lightbox:
+#|   group: groep1
+
+for (meetnet_filter in unique(accum_output$meetnet)) {
+# meetnet_filter = "EBEO_H&W"
+
+accum_output2 <- accum_output %>% rename(jaar2 = jaar) %>% filter(meetnet == meetnet_filter)
+
+plot_accum <-
+  accum_output %>% 
+  filter(meetnet == meetnet_filter) %>% 
+  ggplot() + 
+  geom_line(aes(nr, richness, group = jaar2), colour = "grey60", alpha = 0.6, data = accum_output2) + 
+  geom_line(aes(nr, richness), colour = blauw, size = 1.5) + 
+  # geom_point(aes(nr, richness), colour = blauw, size = 2) + 
+  facet_wrap(vars(jaar), scales = "free_x", ncol = 1) + 
+  scale_y_continuous(expand = expansion(c(0, 0.05)), limits = c(0, NA)) + 
+  scale_x_continuous(labels = scales::label_number(accuracy = 1), breaks = scales::breaks_pretty(3)) +
+  labs(title = "Accumulatie van plantensoorten",
+       subtitle = meetnet_filter,
+       y = "Aantal soorten",
+       x = "Aantal monsters",
+       caption = "De lijn geeft aan hoeveel verschillende soorten worden gevonden in een bepaald aantal monsters.
+       Hoe hoger de lijn hoe groter de biodiversiteit.
+       De grijze lijnen geven de andere jaren weer.")  
+
+print(plot_accum)
+}
+```
+
+# Per type landgebruik
+
+```{r}
+#| fig-width: 7
+#| fig-height: 8
+#| lightbox:
+#|   group: groep1
+
+accum_output <- 
+  input_specaccum %>% 
+  # filter(case_when(
+  #   meetnet == "EBEO_H&W" & jaar %% 3 == 0 ~ TRUE,
+  #   meetnet == "EBEO_MD" & jaar %% 3 == 1 ~ TRUE,
+  #   meetnet == "EBEO_Oost" & jaar %% 3 == 2 ~ TRUE,
+  #   .default = FALSE
+  # )) %>% 
+  mutate(jaar = cut(jaar, c(2012.5, 2015.5, 2018.5, 2021.5, 2024.5), labels = c("2013-2015", "2016-2018", "2019-2021", "2022-2024"))) %>% 
+  group_by(jaar, landgebruik) %>% 
+  select(-(mp:gebied_type)) %>% 
+  nest() %>% 
+  mutate(accum = map(data, specaccum),
+         richness = map(accum, "richness")) %>%
+  unnest(richness) %>%
+  mutate(nr = row_number()) %>% 
+  ungroup()
+
+
+for (landgebruik_filter in unique(accum_output$landgebruik)) {
+
+accum_output2 <- accum_output %>% rename(jaar2 = jaar) %>% filter(landgebruik == landgebruik_filter)
+
+plot_accum <-
+  accum_output %>% 
+  filter(landgebruik == landgebruik_filter) %>% 
+  ggplot() + 
+  geom_line(aes(nr, richness, group = jaar2), colour = "grey60", alpha = 0.6, data = accum_output2) + 
+  geom_line(aes(nr, richness), colour = blauw, size = 1.5) + 
+  # geom_point(aes(nr, richness), colour = blauw, size = 2) + 
+  facet_wrap(vars(jaar), scales = "free_x", ncol = 1) + 
+  scale_y_continuous(expand = expansion(c(0, 0.05)), limits = c(0, NA)) + 
+  scale_x_continuous(labels = scales::label_number(accuracy = 1), breaks = scales::breaks_pretty(3)) +
+  labs(title = "Accumulatie van plantensoorten",
+       subtitle = landgebruik_filter,
+       y = "Aantal soorten",
+       x = "Aantal monsters",
+       caption = "De lijn geeft aan hoeveel verschillende soorten worden gevonden in een bepaald aantal monsters.
+       Hoe hoger de lijn hoe groter de biodiversiteit.
+       De grijze lijnen geven de andere jaren weer.")  
+
+print(plot_accum)
+}
+```
+
+# Alle gebieden per 3 jaar 
+
+```{r}
+#| fig-width: 7
+#| fig-height: 8
+#| lightbox:
+#|   group: groep1
+
+accum_output <- 
+  input_specaccum %>% 
+  # filter(case_when(
+  #   meetnet == "EBEO_H&W" & jaar %% 3 == 0 ~ TRUE,
+  #   meetnet == "EBEO_MD" & jaar %% 3 == 1 ~ TRUE,
+  #   meetnet == "EBEO_Oost" & jaar %% 3 == 2 ~ TRUE,
+  #   .default = FALSE
+  # )) %>% 
+  mutate(jaar = cut(jaar, c(2012.5, 2015.5, 2018.5, 2021.5, 2024.5), labels = c("2013-2015", "2016-2018", "2019-2021", "2022-2024"))) %>% 
+  group_by(jaar) %>% 
+  select(-(mp:gebied_type)) %>% 
+  nest() %>% 
+  mutate(accum = map(data, specaccum),
+         richness = map(accum, "richness")) %>%
+  unnest(richness) %>%
+  mutate(nr = row_number()) %>% 
+  ungroup()
+
+
+
+accum_output2 <- accum_output %>% rename(jaar2 = jaar)  
+
+plot_accum <-
+  accum_output %>% 
+  ggplot() + 
+  geom_line(aes(nr, richness, group = jaar2), colour = "grey60", alpha = 0.6, data = accum_output2) + 
+  geom_line(aes(nr, richness), colour = blauw, size = 1.5) + 
+  # geom_point(aes(nr, richness), colour = blauw, size = 2) + 
+  facet_wrap(vars(jaar), scales = "free_x", ncol = 1) + 
+  scale_y_continuous(expand = expansion(c(0, 0.05)), limits = c(0, NA)) + 
+  scale_x_continuous(labels = scales::label_number(accuracy = 1), breaks = scales::breaks_pretty(3)) +
+  labs(title = "Accumulatie van plantensoorten",
+       y = "Aantal soorten",
+       x = "Aantal monsters",
+       caption = "De lijn geeft aan hoeveel verschillende soorten worden gevonden in een bepaald aantal monsters.
+       Hoe hoger de lijn hoe groter de biodiversiteit.
+       De grijze lijnen geven de andere jaren weer.")  
+
+print(plot_accum)
+```
+}
